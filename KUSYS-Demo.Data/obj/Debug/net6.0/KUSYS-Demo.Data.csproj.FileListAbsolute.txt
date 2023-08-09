@@ -1,0 +1,17 @@
+/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.Data/bin/Debug/net6.0/KUSYS-Demo.Data.deps.json
+/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.Data/bin/Debug/net6.0/KUSYS-Demo.Data.dll
+/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.Data/bin/Debug/net6.0/KUSYS-Demo.Data.pdb
+/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.Data/obj/Debug/net6.0/KUSYS-Demo.Data.csproj.AssemblyReference.cache
+/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.Data/obj/Debug/net6.0/KUSYS-Demo.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.Data/obj/Debug/net6.0/KUSYS-Demo.Data.AssemblyInfoInputs.cache
+/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.Data/obj/Debug/net6.0/KUSYS-Demo.Data.AssemblyInfo.cs
+/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.Data/obj/Debug/net6.0/KUSYS-Demo.Data.csproj.CoreCompileInputs.cache
+/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.Data/obj/Debug/net6.0/KUSYS-Demo.Data.dll
+/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.Data/obj/Debug/net6.0/refint/KUSYS-Demo.Data.dll
+/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.Data/obj/Debug/net6.0/KUSYS-Demo.Data.pdb
+/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.Data/obj/Debug/net6.0/ref/KUSYS-Demo.Data.dll
+/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.Data/bin/Debug/net6.0/KUSYS-Demo.Entity.dll
+/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.Data/bin/Debug/net6.0/KUSYS-Demo.Identity.dll
+/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.Data/bin/Debug/net6.0/KUSYS-Demo.Entity.pdb
+/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.Data/bin/Debug/net6.0/KUSYS-Demo.Identity.pdb
+/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.Data/obj/Debug/net6.0/KUSYS-Demo.Data.csproj.CopyComplete

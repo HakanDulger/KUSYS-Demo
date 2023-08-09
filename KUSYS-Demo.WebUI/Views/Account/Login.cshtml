@@ -1,0 +1,44 @@
+﻿@model LoginViewModel
+
+<div class="col-md-12">
+    <div class="card">
+        <div class="card-body">
+            <form class="form-horizontal form-material" id="loginform" asp-action="Login" asp-controller="Account" method="post">
+                <div asp-validation-summary="All" class="text-danger"></div>
+                <input type="hidden" name="returnUrl" value="@ViewBag.returnUrl" />
+                <h3 class="box-title m-b-20">Giriş</h3>
+                <div class="col-md-2">
+                    <div class="form-group ">
+                        <div class="col-xs-12">
+                            <input class="form-control" type="text" required="" placeholder="Kullanıcı Adı" asp-for="UserName">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-2">
+                    <div class="form-group">
+                        <div class="col-xs-12">
+                            <input class="form-control" type="password" required="" placeholder="Şifre" asp-for="Password">
+                        </div>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="d-flex no-block align-items-center">
+                        <div class="checkbox checkbox-primary p-t-0">
+                            <input id="checkbox-signup" type="checkbox">
+                            <label for="checkbox-signup"> Beni Hatırla </label>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="form-group text-center m-t-20">
+                    <div class="col-xs-12">
+                        <button class="btn btn-success btn-lg btn-block text-uppercase waves-effect waves-light" type="submit">Giriş</button>
+                    </div>
+                </div>
+                <div class="ml-auto">
+                    <a asp-action="SifremiUnuttum"><i class="fa fa-lock m-r-5"></i> Şifremi unuttum</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

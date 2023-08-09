@@ -1,0 +1,209 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.Data/KUSYS-Demo.Data.csproj": {}
+  },
+  "projects": {
+    "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.Data/KUSYS-Demo.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.Data/KUSYS-Demo.Data.csproj",
+        "projectName": "KUSYS-Demo.Data",
+        "projectPath": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.Data/KUSYS-Demo.Data.csproj",
+        "packagesPath": "/Users/hakandulger/.nuget/packages/",
+        "outputPath": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/hakandulger/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.Entity/KUSYS-Demo.Entity.csproj": {
+                "projectPath": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.Entity/KUSYS-Demo.Entity.csproj"
+              },
+              "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.Identity/KUSYS-Demo.Identity.csproj": {
+                "projectPath": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.Identity/KUSYS-Demo.Identity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.18, )"
+            },
+            "Microsoft.Extensions.ApiDescription.Client": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.18, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.Entity/KUSYS-Demo.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.Entity/KUSYS-Demo.Entity.csproj",
+        "projectName": "KUSYS-Demo.Entity",
+        "projectPath": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.Entity/KUSYS-Demo.Entity.csproj",
+        "packagesPath": "/Users/hakandulger/.nuget/packages/",
+        "outputPath": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.Entity/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/hakandulger/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.Identity/KUSYS-Demo.Identity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.Identity/KUSYS-Demo.Identity.csproj",
+        "projectName": "KUSYS-Demo.Identity",
+        "projectPath": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.Identity/KUSYS-Demo.Identity.csproj",
+        "packagesPath": "/Users/hakandulger/.nuget/packages/",
+        "outputPath": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.Identity/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/hakandulger/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

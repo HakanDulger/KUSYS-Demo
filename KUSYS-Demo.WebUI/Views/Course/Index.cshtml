@@ -1,0 +1,42 @@
+﻿@model IQueryable<CourseListViewModel>
+
+<div class="col-md-12">
+    <div class="card">
+        <div class="card-header">
+            @if (User.IsInRole("Admin"))
+            {
+                <a asp-action="AddCourse" class="btn btn-primary">
+                    Add Course
+                </a>
+            }
+        </div>
+        <div class="card-body">
+            <div class="table-responsive">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Id</th>
+                            <th>Name</th>
+                            <th></th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    @foreach (var item in Model)
+                    {
+                        <tbody>
+                            <tr>
+                                <td>@item.CourseId</td>
+                                <td>@item.CourseName</td>
+                                @if (User.IsInRole("Admin"))
+                                {
+                                    <td><a href="/Course/UpdateCourse/@item.CourseId"><i class="mdi mdi-warning"></i> Update</a></td>
+                                    <td><a href="/Course/DeleteCourse/@item.CourseId" onclick="return confirm('Are you sure Delete?');"><i class="mdi mdi-delete"></i> Delete</a></td>
+                                }
+                            </tr>
+                        </tbody>
+                    }
+                </table>
+            </div>
+        </div>
+    </div>
+</div> 

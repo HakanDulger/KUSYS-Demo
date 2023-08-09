@@ -1,0 +1,91 @@
+﻿@model List<StudentListViewModel>
+
+<div class="col-md-12">
+    <div class="card">
+        <div class="card-header">
+            @if (User.IsInRole("Admin"))
+            {
+                <a asp-action="AddStudent" class="btn btn-primary">
+                    Add Student
+                </a>
+            }
+
+        </div>
+        <div class="card-body">
+            <div class="table-responsive">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>FirstName</th>
+                            <th>LastName</th>
+                            <th>Courses</th>
+                            <th></th>
+                            <th></th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    @foreach (var item in Model)
+                    {
+                        <tbody>
+                            <tr>
+                                <td>@item.FirstName</td>
+                                <td>@item.LastName</td>
+                                <td>@item.Course</td>
+                                <td><a href="javascript:openPopup(@item.StudentId);"><i class="mdi mdi-warning"></i>Detail</a></td>
+                                <td><a href="/Student/UpdateStudent/@item.StudentId"><i class="mdi mdi-warning"></i> Update</a></td>
+                                @if (User.IsInRole("Admin"))
+                                {
+                                    <td><a href="/Student/DeleteStudent/@item.StudentId" onclick="return confirm('Are you sure Delete?');"><i class="mdi mdi-delete"></i> Delete</a></td>
+                                }
+                            </tr>
+                        </tbody>
+                    }
+                </table>
+            </div>
+        </div>        
+    </div>
+</div>
+
+<div class="modal fade" tabindex="-1" role="dialog" id="details-modal">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Student Detail</h5>
+                <button type="button" onclick="btnClose()" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="model-body">
+                <input id="FirtsName" readonly />
+                <input id="LastName" readonly />
+                <input id="BirthDate" readonly />
+                <input id="PhoneNumber" readonly />
+                <input id="Address" readonly />
+                <input id="EMail" readonly />
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    function openPopup(e) {
+        var studentId = e;
+        console.log(studentId);
+        var studentList = @Html.Raw(Json.Serialize(Model));
+        console.log(studentList);
+        for (let student of studentList) {
+            if (student.StudentId == studentId) {
+                document.getElementById("FirtsName").value = student.FirstName;
+                document.getElementById("LastName").value = student.LastName;
+                document.getElementById("BirthDate").value = student.BirthDate;
+                document.getElementById("PhoneNumber").value = student.PhoneNumber;
+                document.getElementById("Address").value = student.Address;
+                document.getElementById("EMail").value = student.EMail;
+            }
+        }
+        $("#details-modal").modal('show');
+    }
+    function btnClose(e) {
+        $("#details-modal").modal('hide');
+    }
+</script>

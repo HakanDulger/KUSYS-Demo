@@ -1,0 +1,12 @@
+/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.Entity/bin/Debug/net6.0/KUSYS-Demo.Entity.deps.json
+/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.Entity/bin/Debug/net6.0/KUSYS-Demo.Entity.dll
+/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.Entity/bin/Debug/net6.0/KUSYS-Demo.Entity.pdb
+/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.Entity/obj/Debug/net6.0/KUSYS-Demo.Entity.csproj.AssemblyReference.cache
+/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.Entity/obj/Debug/net6.0/KUSYS-Demo.Entity.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.Entity/obj/Debug/net6.0/KUSYS-Demo.Entity.AssemblyInfoInputs.cache
+/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.Entity/obj/Debug/net6.0/KUSYS-Demo.Entity.AssemblyInfo.cs
+/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.Entity/obj/Debug/net6.0/KUSYS-Demo.Entity.csproj.CoreCompileInputs.cache
+/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.Entity/obj/Debug/net6.0/KUSYS-Demo.Entity.dll
+/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.Entity/obj/Debug/net6.0/refint/KUSYS-Demo.Entity.dll
+/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.Entity/obj/Debug/net6.0/KUSYS-Demo.Entity.pdb
+/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.Entity/obj/Debug/net6.0/ref/KUSYS-Demo.Entity.dll
