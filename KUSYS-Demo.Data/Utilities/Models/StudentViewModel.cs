@@ -14,6 +14,9 @@ namespace KUSYS_Demo.Data.Utilities.Models
         public string? PhoneNumber { get; set; }
         public string? Address { get; set; }
         public string? EMail { get; set; }
+        public string UserName { get; set; }
+        public string Password { get; set; }
+        public Guid IdentityId { get; set; }
     }
 }
 

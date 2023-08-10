@@ -27,6 +27,9 @@ namespace KUSYS_Demo.Data.Concrete.EfCore
                 student.PhoneNumber = model.PhoneNumber;
                 student.Address = model.Address;
                 student.EMail = model.EMail;
+                student.UserName = model.UserName;
+                student.Password = model.Password;
+                student.IdentityId = model.IdentityId;
 
                 KusysDbContext.Student.Add(student);
                 KusysDbContext.SaveChanges();

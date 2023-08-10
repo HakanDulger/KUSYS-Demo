@@ -12,8 +12,8 @@
 
         </div>
         <div class="card-body">
-            <div class="table-responsive">
-                <table class="table">
+            <div >
+                <table class="table is-striped nowrap dataTable no-footer dtr-inline collapsed" style="width:100%" id="usersTable">
                     <thead>
                         <tr>
                             <th>FirstName</th>
@@ -31,7 +31,7 @@
                                 <td>@item.FirstName</td>
                                 <td>@item.LastName</td>
                                 <td>@item.Course</td>
-                                <td><a href="javascript:openPopup(@item.StudentId);"><i class="mdi mdi-warning"></i>Detail</a></td>
+                                <td><a href="javascript:openDetail(@item.StudentId);"><i class="mdi mdi-warning"></i>Detail</a></td>
                                 <td><a href="/Student/UpdateStudent/@item.StudentId"><i class="mdi mdi-warning"></i> Update</a></td>
                                 @if (User.IsInRole("Admin"))
                                 {
@@ -41,8 +41,38 @@
                         </tbody>
                     }
                 </table>
+                <div></div>
+                <table id="example" class="table is-striped nowrap" style="width:100%">
+                    <thead>
+                        <tr>
+                            <th>First name</th>
+                            <th>Last name</th>
+                            <th>Position</th>
+                            <th>Office</th>
+                            <th>Age</th>
+                            <th>Start date</th>
+                            <th>Salary</th>
+                            <th>Extn.</th>
+                            <th>E-mail</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Tiger</td>
+                            <td>Nixon</td>
+                            <td>System Architect</td>
+                            <td>Edinburgh</td>
+                            <td>61</td>
+                            <td>2011-04-25</td>
+                            <td>$320,800</td>
+                            <td>5421</td>
+                            <td>t.nixon@datatables.net</td>
+                        </tr>
+                        
+                    </tbody>
+                </table>
             </div>
-        </div>        
+        </div>
     </div>
 </div>
 
@@ -66,8 +96,25 @@
         </div>
     </div>
 </div>
-
-<script>
+@section Scripts{
+    
+    <script src="~/js/StudentView.js" type="application/ecmascript"></script>
+    <script>
+        function openDetail(e) {
+            new DataTable('#example', {
+                responsive: {
+                    details: {
+                        display: DataTable.Responsive.display.modal({
+                            header: function (row) {
+                                var data = row.data();
+                                return 'Details for ' + data[0] + ' ' + data[1];
+                            }
+                        }),
+                        renderer: DataTable.Responsive.renderer.tableAll()
+                    }
+                }
+            });
+        }
     function openPopup(e) {
         var studentId = e;
         console.log(studentId);
@@ -88,4 +135,5 @@
     function btnClose(e) {
         $("#details-modal").modal('hide');
     }
-</script>
+    </script>
+}

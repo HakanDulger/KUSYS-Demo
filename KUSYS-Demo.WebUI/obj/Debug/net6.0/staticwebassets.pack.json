@@ -5,12 +5,2168 @@
       "PackagePath": "staticwebassets/KUSYS-Demo.WebUI.bundle.scp.css"
     },
     {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/AutoFill-2.5.3/css/autoFill.bootstrap.css",
+      "PackagePath": "staticwebassets/DataTables/AutoFill-2.5.3/css/autoFill.bootstrap.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/AutoFill-2.5.3/css/autoFill.bootstrap.min.css",
+      "PackagePath": "staticwebassets/DataTables/AutoFill-2.5.3/css/autoFill.bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/AutoFill-2.5.3/css/autoFill.bootstrap4.css",
+      "PackagePath": "staticwebassets/DataTables/AutoFill-2.5.3/css/autoFill.bootstrap4.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/AutoFill-2.5.3/css/autoFill.bootstrap4.min.css",
+      "PackagePath": "staticwebassets/DataTables/AutoFill-2.5.3/css/autoFill.bootstrap4.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/AutoFill-2.5.3/css/autoFill.bootstrap5.css",
+      "PackagePath": "staticwebassets/DataTables/AutoFill-2.5.3/css/autoFill.bootstrap5.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/AutoFill-2.5.3/css/autoFill.bootstrap5.min.css",
+      "PackagePath": "staticwebassets/DataTables/AutoFill-2.5.3/css/autoFill.bootstrap5.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/AutoFill-2.5.3/css/autoFill.bulma.css",
+      "PackagePath": "staticwebassets/DataTables/AutoFill-2.5.3/css/autoFill.bulma.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/AutoFill-2.5.3/css/autoFill.bulma.min.css",
+      "PackagePath": "staticwebassets/DataTables/AutoFill-2.5.3/css/autoFill.bulma.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/AutoFill-2.5.3/css/autoFill.dataTables.css",
+      "PackagePath": "staticwebassets/DataTables/AutoFill-2.5.3/css/autoFill.dataTables.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/AutoFill-2.5.3/css/autoFill.dataTables.min.css",
+      "PackagePath": "staticwebassets/DataTables/AutoFill-2.5.3/css/autoFill.dataTables.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/AutoFill-2.5.3/css/autoFill.foundation.css",
+      "PackagePath": "staticwebassets/DataTables/AutoFill-2.5.3/css/autoFill.foundation.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/AutoFill-2.5.3/css/autoFill.foundation.min.css",
+      "PackagePath": "staticwebassets/DataTables/AutoFill-2.5.3/css/autoFill.foundation.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/AutoFill-2.5.3/css/autoFill.jqueryui.css",
+      "PackagePath": "staticwebassets/DataTables/AutoFill-2.5.3/css/autoFill.jqueryui.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/AutoFill-2.5.3/css/autoFill.jqueryui.min.css",
+      "PackagePath": "staticwebassets/DataTables/AutoFill-2.5.3/css/autoFill.jqueryui.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/AutoFill-2.5.3/css/autoFill.semanticui.css",
+      "PackagePath": "staticwebassets/DataTables/AutoFill-2.5.3/css/autoFill.semanticui.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/AutoFill-2.5.3/css/autoFill.semanticui.min.css",
+      "PackagePath": "staticwebassets/DataTables/AutoFill-2.5.3/css/autoFill.semanticui.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/AutoFill-2.5.3/js/autoFill.bootstrap.js",
+      "PackagePath": "staticwebassets/DataTables/AutoFill-2.5.3/js/autoFill.bootstrap.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/AutoFill-2.5.3/js/autoFill.bootstrap.min.js",
+      "PackagePath": "staticwebassets/DataTables/AutoFill-2.5.3/js/autoFill.bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/AutoFill-2.5.3/js/autoFill.bootstrap4.js",
+      "PackagePath": "staticwebassets/DataTables/AutoFill-2.5.3/js/autoFill.bootstrap4.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/AutoFill-2.5.3/js/autoFill.bootstrap4.min.js",
+      "PackagePath": "staticwebassets/DataTables/AutoFill-2.5.3/js/autoFill.bootstrap4.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/AutoFill-2.5.3/js/autoFill.bootstrap5.js",
+      "PackagePath": "staticwebassets/DataTables/AutoFill-2.5.3/js/autoFill.bootstrap5.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/AutoFill-2.5.3/js/autoFill.bootstrap5.min.js",
+      "PackagePath": "staticwebassets/DataTables/AutoFill-2.5.3/js/autoFill.bootstrap5.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/AutoFill-2.5.3/js/autoFill.bulma.js",
+      "PackagePath": "staticwebassets/DataTables/AutoFill-2.5.3/js/autoFill.bulma.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/AutoFill-2.5.3/js/autoFill.bulma.min.js",
+      "PackagePath": "staticwebassets/DataTables/AutoFill-2.5.3/js/autoFill.bulma.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/AutoFill-2.5.3/js/autoFill.dataTables.js",
+      "PackagePath": "staticwebassets/DataTables/AutoFill-2.5.3/js/autoFill.dataTables.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/AutoFill-2.5.3/js/autoFill.dataTables.min.js",
+      "PackagePath": "staticwebassets/DataTables/AutoFill-2.5.3/js/autoFill.dataTables.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/AutoFill-2.5.3/js/autoFill.foundation.js",
+      "PackagePath": "staticwebassets/DataTables/AutoFill-2.5.3/js/autoFill.foundation.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/AutoFill-2.5.3/js/autoFill.foundation.min.js",
+      "PackagePath": "staticwebassets/DataTables/AutoFill-2.5.3/js/autoFill.foundation.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/AutoFill-2.5.3/js/autoFill.jqueryui.js",
+      "PackagePath": "staticwebassets/DataTables/AutoFill-2.5.3/js/autoFill.jqueryui.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/AutoFill-2.5.3/js/autoFill.jqueryui.min.js",
+      "PackagePath": "staticwebassets/DataTables/AutoFill-2.5.3/js/autoFill.jqueryui.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/AutoFill-2.5.3/js/autoFill.semanticui.js",
+      "PackagePath": "staticwebassets/DataTables/AutoFill-2.5.3/js/autoFill.semanticui.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/AutoFill-2.5.3/js/autoFill.semanticui.min.js",
+      "PackagePath": "staticwebassets/DataTables/AutoFill-2.5.3/js/autoFill.semanticui.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/AutoFill-2.5.3/js/dataTables.autoFill.js",
+      "PackagePath": "staticwebassets/DataTables/AutoFill-2.5.3/js/dataTables.autoFill.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/AutoFill-2.5.3/js/dataTables.autoFill.min.js",
+      "PackagePath": "staticwebassets/DataTables/AutoFill-2.5.3/js/dataTables.autoFill.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Buttons-2.3.6/css/buttons.bootstrap.css",
+      "PackagePath": "staticwebassets/DataTables/Buttons-2.3.6/css/buttons.bootstrap.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Buttons-2.3.6/css/buttons.bootstrap.min.css",
+      "PackagePath": "staticwebassets/DataTables/Buttons-2.3.6/css/buttons.bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Buttons-2.3.6/css/buttons.bootstrap4.css",
+      "PackagePath": "staticwebassets/DataTables/Buttons-2.3.6/css/buttons.bootstrap4.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Buttons-2.3.6/css/buttons.bootstrap4.min.css",
+      "PackagePath": "staticwebassets/DataTables/Buttons-2.3.6/css/buttons.bootstrap4.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Buttons-2.3.6/css/buttons.bootstrap5.css",
+      "PackagePath": "staticwebassets/DataTables/Buttons-2.3.6/css/buttons.bootstrap5.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Buttons-2.3.6/css/buttons.bootstrap5.min.css",
+      "PackagePath": "staticwebassets/DataTables/Buttons-2.3.6/css/buttons.bootstrap5.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Buttons-2.3.6/css/buttons.bulma.css",
+      "PackagePath": "staticwebassets/DataTables/Buttons-2.3.6/css/buttons.bulma.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Buttons-2.3.6/css/buttons.bulma.min.css",
+      "PackagePath": "staticwebassets/DataTables/Buttons-2.3.6/css/buttons.bulma.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Buttons-2.3.6/css/buttons.dataTables.css",
+      "PackagePath": "staticwebassets/DataTables/Buttons-2.3.6/css/buttons.dataTables.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Buttons-2.3.6/css/buttons.dataTables.min.css",
+      "PackagePath": "staticwebassets/DataTables/Buttons-2.3.6/css/buttons.dataTables.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Buttons-2.3.6/css/buttons.foundation.css",
+      "PackagePath": "staticwebassets/DataTables/Buttons-2.3.6/css/buttons.foundation.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Buttons-2.3.6/css/buttons.foundation.min.css",
+      "PackagePath": "staticwebassets/DataTables/Buttons-2.3.6/css/buttons.foundation.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Buttons-2.3.6/css/buttons.jqueryui.css",
+      "PackagePath": "staticwebassets/DataTables/Buttons-2.3.6/css/buttons.jqueryui.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Buttons-2.3.6/css/buttons.jqueryui.min.css",
+      "PackagePath": "staticwebassets/DataTables/Buttons-2.3.6/css/buttons.jqueryui.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Buttons-2.3.6/css/buttons.semanticui.css",
+      "PackagePath": "staticwebassets/DataTables/Buttons-2.3.6/css/buttons.semanticui.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Buttons-2.3.6/css/buttons.semanticui.min.css",
+      "PackagePath": "staticwebassets/DataTables/Buttons-2.3.6/css/buttons.semanticui.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Buttons-2.3.6/css/common.scss",
+      "PackagePath": "staticwebassets/DataTables/Buttons-2.3.6/css/common.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Buttons-2.3.6/css/mixins.scss",
+      "PackagePath": "staticwebassets/DataTables/Buttons-2.3.6/css/mixins.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Buttons-2.3.6/js/buttons.bootstrap.js",
+      "PackagePath": "staticwebassets/DataTables/Buttons-2.3.6/js/buttons.bootstrap.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Buttons-2.3.6/js/buttons.bootstrap.min.js",
+      "PackagePath": "staticwebassets/DataTables/Buttons-2.3.6/js/buttons.bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Buttons-2.3.6/js/buttons.bootstrap4.js",
+      "PackagePath": "staticwebassets/DataTables/Buttons-2.3.6/js/buttons.bootstrap4.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Buttons-2.3.6/js/buttons.bootstrap4.min.js",
+      "PackagePath": "staticwebassets/DataTables/Buttons-2.3.6/js/buttons.bootstrap4.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Buttons-2.3.6/js/buttons.bootstrap5.js",
+      "PackagePath": "staticwebassets/DataTables/Buttons-2.3.6/js/buttons.bootstrap5.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Buttons-2.3.6/js/buttons.bootstrap5.min.js",
+      "PackagePath": "staticwebassets/DataTables/Buttons-2.3.6/js/buttons.bootstrap5.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Buttons-2.3.6/js/buttons.bulma.js",
+      "PackagePath": "staticwebassets/DataTables/Buttons-2.3.6/js/buttons.bulma.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Buttons-2.3.6/js/buttons.bulma.min.js",
+      "PackagePath": "staticwebassets/DataTables/Buttons-2.3.6/js/buttons.bulma.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Buttons-2.3.6/js/buttons.colVis.js",
+      "PackagePath": "staticwebassets/DataTables/Buttons-2.3.6/js/buttons.colVis.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Buttons-2.3.6/js/buttons.colVis.min.js",
+      "PackagePath": "staticwebassets/DataTables/Buttons-2.3.6/js/buttons.colVis.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Buttons-2.3.6/js/buttons.dataTables.js",
+      "PackagePath": "staticwebassets/DataTables/Buttons-2.3.6/js/buttons.dataTables.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Buttons-2.3.6/js/buttons.dataTables.min.js",
+      "PackagePath": "staticwebassets/DataTables/Buttons-2.3.6/js/buttons.dataTables.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Buttons-2.3.6/js/buttons.foundation.js",
+      "PackagePath": "staticwebassets/DataTables/Buttons-2.3.6/js/buttons.foundation.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Buttons-2.3.6/js/buttons.foundation.min.js",
+      "PackagePath": "staticwebassets/DataTables/Buttons-2.3.6/js/buttons.foundation.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Buttons-2.3.6/js/buttons.html5.js",
+      "PackagePath": "staticwebassets/DataTables/Buttons-2.3.6/js/buttons.html5.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Buttons-2.3.6/js/buttons.html5.min.js",
+      "PackagePath": "staticwebassets/DataTables/Buttons-2.3.6/js/buttons.html5.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Buttons-2.3.6/js/buttons.jqueryui.js",
+      "PackagePath": "staticwebassets/DataTables/Buttons-2.3.6/js/buttons.jqueryui.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Buttons-2.3.6/js/buttons.jqueryui.min.js",
+      "PackagePath": "staticwebassets/DataTables/Buttons-2.3.6/js/buttons.jqueryui.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Buttons-2.3.6/js/buttons.print.js",
+      "PackagePath": "staticwebassets/DataTables/Buttons-2.3.6/js/buttons.print.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Buttons-2.3.6/js/buttons.print.min.js",
+      "PackagePath": "staticwebassets/DataTables/Buttons-2.3.6/js/buttons.print.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Buttons-2.3.6/js/buttons.semanticui.js",
+      "PackagePath": "staticwebassets/DataTables/Buttons-2.3.6/js/buttons.semanticui.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Buttons-2.3.6/js/buttons.semanticui.min.js",
+      "PackagePath": "staticwebassets/DataTables/Buttons-2.3.6/js/buttons.semanticui.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Buttons-2.3.6/js/dataTables.buttons.js",
+      "PackagePath": "staticwebassets/DataTables/Buttons-2.3.6/js/dataTables.buttons.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Buttons-2.3.6/js/dataTables.buttons.min.js",
+      "PackagePath": "staticwebassets/DataTables/Buttons-2.3.6/js/dataTables.buttons.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/ColReorder-1.6.2/css/colReorder.bootstrap.css",
+      "PackagePath": "staticwebassets/DataTables/ColReorder-1.6.2/css/colReorder.bootstrap.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/ColReorder-1.6.2/css/colReorder.bootstrap.min.css",
+      "PackagePath": "staticwebassets/DataTables/ColReorder-1.6.2/css/colReorder.bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/ColReorder-1.6.2/css/colReorder.bootstrap4.css",
+      "PackagePath": "staticwebassets/DataTables/ColReorder-1.6.2/css/colReorder.bootstrap4.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/ColReorder-1.6.2/css/colReorder.bootstrap4.min.css",
+      "PackagePath": "staticwebassets/DataTables/ColReorder-1.6.2/css/colReorder.bootstrap4.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/ColReorder-1.6.2/css/colReorder.bootstrap5.css",
+      "PackagePath": "staticwebassets/DataTables/ColReorder-1.6.2/css/colReorder.bootstrap5.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/ColReorder-1.6.2/css/colReorder.bootstrap5.min.css",
+      "PackagePath": "staticwebassets/DataTables/ColReorder-1.6.2/css/colReorder.bootstrap5.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/ColReorder-1.6.2/css/colReorder.bulma.css",
+      "PackagePath": "staticwebassets/DataTables/ColReorder-1.6.2/css/colReorder.bulma.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/ColReorder-1.6.2/css/colReorder.bulma.min.css",
+      "PackagePath": "staticwebassets/DataTables/ColReorder-1.6.2/css/colReorder.bulma.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/ColReorder-1.6.2/css/colReorder.dataTables.css",
+      "PackagePath": "staticwebassets/DataTables/ColReorder-1.6.2/css/colReorder.dataTables.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/ColReorder-1.6.2/css/colReorder.dataTables.min.css",
+      "PackagePath": "staticwebassets/DataTables/ColReorder-1.6.2/css/colReorder.dataTables.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/ColReorder-1.6.2/css/colReorder.foundation.css",
+      "PackagePath": "staticwebassets/DataTables/ColReorder-1.6.2/css/colReorder.foundation.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/ColReorder-1.6.2/css/colReorder.foundation.min.css",
+      "PackagePath": "staticwebassets/DataTables/ColReorder-1.6.2/css/colReorder.foundation.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/ColReorder-1.6.2/css/colReorder.jqueryui.css",
+      "PackagePath": "staticwebassets/DataTables/ColReorder-1.6.2/css/colReorder.jqueryui.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/ColReorder-1.6.2/css/colReorder.jqueryui.min.css",
+      "PackagePath": "staticwebassets/DataTables/ColReorder-1.6.2/css/colReorder.jqueryui.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/ColReorder-1.6.2/css/colReorder.semanticui.css",
+      "PackagePath": "staticwebassets/DataTables/ColReorder-1.6.2/css/colReorder.semanticui.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/ColReorder-1.6.2/css/colReorder.semanticui.min.css",
+      "PackagePath": "staticwebassets/DataTables/ColReorder-1.6.2/css/colReorder.semanticui.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/ColReorder-1.6.2/js/colReorder.bootstrap.js",
+      "PackagePath": "staticwebassets/DataTables/ColReorder-1.6.2/js/colReorder.bootstrap.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/ColReorder-1.6.2/js/colReorder.bootstrap.min.js",
+      "PackagePath": "staticwebassets/DataTables/ColReorder-1.6.2/js/colReorder.bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/ColReorder-1.6.2/js/colReorder.bootstrap4.js",
+      "PackagePath": "staticwebassets/DataTables/ColReorder-1.6.2/js/colReorder.bootstrap4.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/ColReorder-1.6.2/js/colReorder.bootstrap4.min.js",
+      "PackagePath": "staticwebassets/DataTables/ColReorder-1.6.2/js/colReorder.bootstrap4.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/ColReorder-1.6.2/js/colReorder.bootstrap5.js",
+      "PackagePath": "staticwebassets/DataTables/ColReorder-1.6.2/js/colReorder.bootstrap5.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/ColReorder-1.6.2/js/colReorder.bootstrap5.min.js",
+      "PackagePath": "staticwebassets/DataTables/ColReorder-1.6.2/js/colReorder.bootstrap5.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/ColReorder-1.6.2/js/colReorder.bulma.js",
+      "PackagePath": "staticwebassets/DataTables/ColReorder-1.6.2/js/colReorder.bulma.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/ColReorder-1.6.2/js/colReorder.bulma.min.js",
+      "PackagePath": "staticwebassets/DataTables/ColReorder-1.6.2/js/colReorder.bulma.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/ColReorder-1.6.2/js/colReorder.dataTables.js",
+      "PackagePath": "staticwebassets/DataTables/ColReorder-1.6.2/js/colReorder.dataTables.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/ColReorder-1.6.2/js/colReorder.dataTables.min.js",
+      "PackagePath": "staticwebassets/DataTables/ColReorder-1.6.2/js/colReorder.dataTables.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/ColReorder-1.6.2/js/colReorder.foundation.js",
+      "PackagePath": "staticwebassets/DataTables/ColReorder-1.6.2/js/colReorder.foundation.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/ColReorder-1.6.2/js/colReorder.foundation.min.js",
+      "PackagePath": "staticwebassets/DataTables/ColReorder-1.6.2/js/colReorder.foundation.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/ColReorder-1.6.2/js/colReorder.jqueryui.js",
+      "PackagePath": "staticwebassets/DataTables/ColReorder-1.6.2/js/colReorder.jqueryui.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/ColReorder-1.6.2/js/colReorder.jqueryui.min.js",
+      "PackagePath": "staticwebassets/DataTables/ColReorder-1.6.2/js/colReorder.jqueryui.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/ColReorder-1.6.2/js/colReorder.semanticui.js",
+      "PackagePath": "staticwebassets/DataTables/ColReorder-1.6.2/js/colReorder.semanticui.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/ColReorder-1.6.2/js/colReorder.semanticui.min.js",
+      "PackagePath": "staticwebassets/DataTables/ColReorder-1.6.2/js/colReorder.semanticui.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/ColReorder-1.6.2/js/dataTables.colReorder.js",
+      "PackagePath": "staticwebassets/DataTables/ColReorder-1.6.2/js/dataTables.colReorder.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/ColReorder-1.6.2/js/dataTables.colReorder.min.js",
+      "PackagePath": "staticwebassets/DataTables/ColReorder-1.6.2/js/dataTables.colReorder.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/DataTables-1.13.4/css/dataTables.bootstrap.css",
+      "PackagePath": "staticwebassets/DataTables/DataTables-1.13.4/css/dataTables.bootstrap.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/DataTables-1.13.4/css/dataTables.bootstrap.min.css",
+      "PackagePath": "staticwebassets/DataTables/DataTables-1.13.4/css/dataTables.bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/DataTables-1.13.4/css/dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets/DataTables/DataTables-1.13.4/css/dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/DataTables-1.13.4/css/dataTables.bootstrap4.min.css",
+      "PackagePath": "staticwebassets/DataTables/DataTables-1.13.4/css/dataTables.bootstrap4.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/DataTables-1.13.4/css/dataTables.bootstrap5.css",
+      "PackagePath": "staticwebassets/DataTables/DataTables-1.13.4/css/dataTables.bootstrap5.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/DataTables-1.13.4/css/dataTables.bootstrap5.min.css",
+      "PackagePath": "staticwebassets/DataTables/DataTables-1.13.4/css/dataTables.bootstrap5.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/DataTables-1.13.4/css/dataTables.bulma.css",
+      "PackagePath": "staticwebassets/DataTables/DataTables-1.13.4/css/dataTables.bulma.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/DataTables-1.13.4/css/dataTables.bulma.min.css",
+      "PackagePath": "staticwebassets/DataTables/DataTables-1.13.4/css/dataTables.bulma.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/DataTables-1.13.4/css/dataTables.dataTables.css",
+      "PackagePath": "staticwebassets/DataTables/DataTables-1.13.4/css/dataTables.dataTables.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/DataTables-1.13.4/css/dataTables.dataTables.min.css",
+      "PackagePath": "staticwebassets/DataTables/DataTables-1.13.4/css/dataTables.dataTables.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/DataTables-1.13.4/css/dataTables.foundation.css",
+      "PackagePath": "staticwebassets/DataTables/DataTables-1.13.4/css/dataTables.foundation.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/DataTables-1.13.4/css/dataTables.foundation.min.css",
+      "PackagePath": "staticwebassets/DataTables/DataTables-1.13.4/css/dataTables.foundation.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/DataTables-1.13.4/css/dataTables.jqueryui.css",
+      "PackagePath": "staticwebassets/DataTables/DataTables-1.13.4/css/dataTables.jqueryui.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/DataTables-1.13.4/css/dataTables.jqueryui.min.css",
+      "PackagePath": "staticwebassets/DataTables/DataTables-1.13.4/css/dataTables.jqueryui.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/DataTables-1.13.4/css/dataTables.semanticui.css",
+      "PackagePath": "staticwebassets/DataTables/DataTables-1.13.4/css/dataTables.semanticui.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/DataTables-1.13.4/css/dataTables.semanticui.min.css",
+      "PackagePath": "staticwebassets/DataTables/DataTables-1.13.4/css/dataTables.semanticui.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/DataTables-1.13.4/css/jquery.dataTables.css",
+      "PackagePath": "staticwebassets/DataTables/DataTables-1.13.4/css/jquery.dataTables.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/DataTables-1.13.4/css/jquery.dataTables.min.css",
+      "PackagePath": "staticwebassets/DataTables/DataTables-1.13.4/css/jquery.dataTables.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/DataTables-1.13.4/images/sort_asc.png",
+      "PackagePath": "staticwebassets/DataTables/DataTables-1.13.4/images/sort_asc.png"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/DataTables-1.13.4/images/sort_asc_disabled.png",
+      "PackagePath": "staticwebassets/DataTables/DataTables-1.13.4/images/sort_asc_disabled.png"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/DataTables-1.13.4/images/sort_both.png",
+      "PackagePath": "staticwebassets/DataTables/DataTables-1.13.4/images/sort_both.png"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/DataTables-1.13.4/images/sort_desc.png",
+      "PackagePath": "staticwebassets/DataTables/DataTables-1.13.4/images/sort_desc.png"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/DataTables-1.13.4/images/sort_desc_disabled.png",
+      "PackagePath": "staticwebassets/DataTables/DataTables-1.13.4/images/sort_desc_disabled.png"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/DataTables-1.13.4/js/dataTables.bootstrap.js",
+      "PackagePath": "staticwebassets/DataTables/DataTables-1.13.4/js/dataTables.bootstrap.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/DataTables-1.13.4/js/dataTables.bootstrap.min.js",
+      "PackagePath": "staticwebassets/DataTables/DataTables-1.13.4/js/dataTables.bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/DataTables-1.13.4/js/dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets/DataTables/DataTables-1.13.4/js/dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/DataTables-1.13.4/js/dataTables.bootstrap4.min.js",
+      "PackagePath": "staticwebassets/DataTables/DataTables-1.13.4/js/dataTables.bootstrap4.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/DataTables-1.13.4/js/dataTables.bootstrap5.js",
+      "PackagePath": "staticwebassets/DataTables/DataTables-1.13.4/js/dataTables.bootstrap5.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/DataTables-1.13.4/js/dataTables.bootstrap5.min.js",
+      "PackagePath": "staticwebassets/DataTables/DataTables-1.13.4/js/dataTables.bootstrap5.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/DataTables-1.13.4/js/dataTables.bulma.js",
+      "PackagePath": "staticwebassets/DataTables/DataTables-1.13.4/js/dataTables.bulma.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/DataTables-1.13.4/js/dataTables.bulma.min.js",
+      "PackagePath": "staticwebassets/DataTables/DataTables-1.13.4/js/dataTables.bulma.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/DataTables-1.13.4/js/dataTables.dataTables.js",
+      "PackagePath": "staticwebassets/DataTables/DataTables-1.13.4/js/dataTables.dataTables.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/DataTables-1.13.4/js/dataTables.dataTables.min.js",
+      "PackagePath": "staticwebassets/DataTables/DataTables-1.13.4/js/dataTables.dataTables.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/DataTables-1.13.4/js/dataTables.foundation.js",
+      "PackagePath": "staticwebassets/DataTables/DataTables-1.13.4/js/dataTables.foundation.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/DataTables-1.13.4/js/dataTables.foundation.min.js",
+      "PackagePath": "staticwebassets/DataTables/DataTables-1.13.4/js/dataTables.foundation.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/DataTables-1.13.4/js/dataTables.jqueryui.js",
+      "PackagePath": "staticwebassets/DataTables/DataTables-1.13.4/js/dataTables.jqueryui.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/DataTables-1.13.4/js/dataTables.jqueryui.min.js",
+      "PackagePath": "staticwebassets/DataTables/DataTables-1.13.4/js/dataTables.jqueryui.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/DataTables-1.13.4/js/dataTables.semanticui.js",
+      "PackagePath": "staticwebassets/DataTables/DataTables-1.13.4/js/dataTables.semanticui.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/DataTables-1.13.4/js/dataTables.semanticui.min.js",
+      "PackagePath": "staticwebassets/DataTables/DataTables-1.13.4/js/dataTables.semanticui.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/DataTables-1.13.4/js/jquery.dataTables.js",
+      "PackagePath": "staticwebassets/DataTables/DataTables-1.13.4/js/jquery.dataTables.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/DataTables-1.13.4/js/jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets/DataTables/DataTables-1.13.4/js/jquery.dataTables.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/DateTime-1.4.1/css/dataTables.dateTime.css",
+      "PackagePath": "staticwebassets/DataTables/DateTime-1.4.1/css/dataTables.dateTime.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/DateTime-1.4.1/css/dataTables.dateTime.min.css",
+      "PackagePath": "staticwebassets/DataTables/DateTime-1.4.1/css/dataTables.dateTime.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/DateTime-1.4.1/js/dataTables.dateTime.js",
+      "PackagePath": "staticwebassets/DataTables/DateTime-1.4.1/js/dataTables.dateTime.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/DateTime-1.4.1/js/dataTables.dateTime.min.js",
+      "PackagePath": "staticwebassets/DataTables/DateTime-1.4.1/js/dataTables.dateTime.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/FixedColumns-4.2.2/css/fixedColumns.bootstrap.css",
+      "PackagePath": "staticwebassets/DataTables/FixedColumns-4.2.2/css/fixedColumns.bootstrap.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/FixedColumns-4.2.2/css/fixedColumns.bootstrap.min.css",
+      "PackagePath": "staticwebassets/DataTables/FixedColumns-4.2.2/css/fixedColumns.bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/FixedColumns-4.2.2/css/fixedColumns.bootstrap4.css",
+      "PackagePath": "staticwebassets/DataTables/FixedColumns-4.2.2/css/fixedColumns.bootstrap4.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/FixedColumns-4.2.2/css/fixedColumns.bootstrap4.min.css",
+      "PackagePath": "staticwebassets/DataTables/FixedColumns-4.2.2/css/fixedColumns.bootstrap4.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/FixedColumns-4.2.2/css/fixedColumns.bootstrap5.css",
+      "PackagePath": "staticwebassets/DataTables/FixedColumns-4.2.2/css/fixedColumns.bootstrap5.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/FixedColumns-4.2.2/css/fixedColumns.bootstrap5.min.css",
+      "PackagePath": "staticwebassets/DataTables/FixedColumns-4.2.2/css/fixedColumns.bootstrap5.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/FixedColumns-4.2.2/css/fixedColumns.bulma.css",
+      "PackagePath": "staticwebassets/DataTables/FixedColumns-4.2.2/css/fixedColumns.bulma.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/FixedColumns-4.2.2/css/fixedColumns.bulma.min.css",
+      "PackagePath": "staticwebassets/DataTables/FixedColumns-4.2.2/css/fixedColumns.bulma.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/FixedColumns-4.2.2/css/fixedColumns.dataTables.css",
+      "PackagePath": "staticwebassets/DataTables/FixedColumns-4.2.2/css/fixedColumns.dataTables.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/FixedColumns-4.2.2/css/fixedColumns.dataTables.min.css",
+      "PackagePath": "staticwebassets/DataTables/FixedColumns-4.2.2/css/fixedColumns.dataTables.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/FixedColumns-4.2.2/css/fixedColumns.foundation.css",
+      "PackagePath": "staticwebassets/DataTables/FixedColumns-4.2.2/css/fixedColumns.foundation.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/FixedColumns-4.2.2/css/fixedColumns.foundation.min.css",
+      "PackagePath": "staticwebassets/DataTables/FixedColumns-4.2.2/css/fixedColumns.foundation.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/FixedColumns-4.2.2/css/fixedColumns.jqueryui.css",
+      "PackagePath": "staticwebassets/DataTables/FixedColumns-4.2.2/css/fixedColumns.jqueryui.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/FixedColumns-4.2.2/css/fixedColumns.jqueryui.min.css",
+      "PackagePath": "staticwebassets/DataTables/FixedColumns-4.2.2/css/fixedColumns.jqueryui.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/FixedColumns-4.2.2/css/fixedColumns.semanticui.css",
+      "PackagePath": "staticwebassets/DataTables/FixedColumns-4.2.2/css/fixedColumns.semanticui.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/FixedColumns-4.2.2/css/fixedColumns.semanticui.min.css",
+      "PackagePath": "staticwebassets/DataTables/FixedColumns-4.2.2/css/fixedColumns.semanticui.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/FixedColumns-4.2.2/js/dataTables.fixedColumns.js",
+      "PackagePath": "staticwebassets/DataTables/FixedColumns-4.2.2/js/dataTables.fixedColumns.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/FixedColumns-4.2.2/js/dataTables.fixedColumns.min.js",
+      "PackagePath": "staticwebassets/DataTables/FixedColumns-4.2.2/js/dataTables.fixedColumns.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/FixedColumns-4.2.2/js/fixedColumns.bootstrap.js",
+      "PackagePath": "staticwebassets/DataTables/FixedColumns-4.2.2/js/fixedColumns.bootstrap.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/FixedColumns-4.2.2/js/fixedColumns.bootstrap.min.js",
+      "PackagePath": "staticwebassets/DataTables/FixedColumns-4.2.2/js/fixedColumns.bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/FixedColumns-4.2.2/js/fixedColumns.bootstrap4.js",
+      "PackagePath": "staticwebassets/DataTables/FixedColumns-4.2.2/js/fixedColumns.bootstrap4.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/FixedColumns-4.2.2/js/fixedColumns.bootstrap4.min.js",
+      "PackagePath": "staticwebassets/DataTables/FixedColumns-4.2.2/js/fixedColumns.bootstrap4.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/FixedColumns-4.2.2/js/fixedColumns.bootstrap5.js",
+      "PackagePath": "staticwebassets/DataTables/FixedColumns-4.2.2/js/fixedColumns.bootstrap5.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/FixedColumns-4.2.2/js/fixedColumns.bootstrap5.min.js",
+      "PackagePath": "staticwebassets/DataTables/FixedColumns-4.2.2/js/fixedColumns.bootstrap5.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/FixedColumns-4.2.2/js/fixedColumns.bulma.js",
+      "PackagePath": "staticwebassets/DataTables/FixedColumns-4.2.2/js/fixedColumns.bulma.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/FixedColumns-4.2.2/js/fixedColumns.bulma.min.js",
+      "PackagePath": "staticwebassets/DataTables/FixedColumns-4.2.2/js/fixedColumns.bulma.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/FixedColumns-4.2.2/js/fixedColumns.dataTables.js",
+      "PackagePath": "staticwebassets/DataTables/FixedColumns-4.2.2/js/fixedColumns.dataTables.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/FixedColumns-4.2.2/js/fixedColumns.dataTables.min.js",
+      "PackagePath": "staticwebassets/DataTables/FixedColumns-4.2.2/js/fixedColumns.dataTables.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/FixedColumns-4.2.2/js/fixedColumns.foundation.js",
+      "PackagePath": "staticwebassets/DataTables/FixedColumns-4.2.2/js/fixedColumns.foundation.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/FixedColumns-4.2.2/js/fixedColumns.foundation.min.js",
+      "PackagePath": "staticwebassets/DataTables/FixedColumns-4.2.2/js/fixedColumns.foundation.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/FixedColumns-4.2.2/js/fixedColumns.jqueryui.js",
+      "PackagePath": "staticwebassets/DataTables/FixedColumns-4.2.2/js/fixedColumns.jqueryui.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/FixedColumns-4.2.2/js/fixedColumns.jqueryui.min.js",
+      "PackagePath": "staticwebassets/DataTables/FixedColumns-4.2.2/js/fixedColumns.jqueryui.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/FixedColumns-4.2.2/js/fixedColumns.semanticui.js",
+      "PackagePath": "staticwebassets/DataTables/FixedColumns-4.2.2/js/fixedColumns.semanticui.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/FixedColumns-4.2.2/js/fixedColumns.semanticui.min.js",
+      "PackagePath": "staticwebassets/DataTables/FixedColumns-4.2.2/js/fixedColumns.semanticui.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/FixedHeader-3.3.2/css/fixedHeader.bootstrap.css",
+      "PackagePath": "staticwebassets/DataTables/FixedHeader-3.3.2/css/fixedHeader.bootstrap.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/FixedHeader-3.3.2/css/fixedHeader.bootstrap.min.css",
+      "PackagePath": "staticwebassets/DataTables/FixedHeader-3.3.2/css/fixedHeader.bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/FixedHeader-3.3.2/css/fixedHeader.bootstrap4.css",
+      "PackagePath": "staticwebassets/DataTables/FixedHeader-3.3.2/css/fixedHeader.bootstrap4.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/FixedHeader-3.3.2/css/fixedHeader.bootstrap4.min.css",
+      "PackagePath": "staticwebassets/DataTables/FixedHeader-3.3.2/css/fixedHeader.bootstrap4.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/FixedHeader-3.3.2/css/fixedHeader.bootstrap5.css",
+      "PackagePath": "staticwebassets/DataTables/FixedHeader-3.3.2/css/fixedHeader.bootstrap5.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/FixedHeader-3.3.2/css/fixedHeader.bootstrap5.min.css",
+      "PackagePath": "staticwebassets/DataTables/FixedHeader-3.3.2/css/fixedHeader.bootstrap5.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/FixedHeader-3.3.2/css/fixedHeader.bulma.css",
+      "PackagePath": "staticwebassets/DataTables/FixedHeader-3.3.2/css/fixedHeader.bulma.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/FixedHeader-3.3.2/css/fixedHeader.bulma.min.css",
+      "PackagePath": "staticwebassets/DataTables/FixedHeader-3.3.2/css/fixedHeader.bulma.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/FixedHeader-3.3.2/css/fixedHeader.dataTables.css",
+      "PackagePath": "staticwebassets/DataTables/FixedHeader-3.3.2/css/fixedHeader.dataTables.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/FixedHeader-3.3.2/css/fixedHeader.dataTables.min.css",
+      "PackagePath": "staticwebassets/DataTables/FixedHeader-3.3.2/css/fixedHeader.dataTables.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/FixedHeader-3.3.2/css/fixedHeader.foundation.css",
+      "PackagePath": "staticwebassets/DataTables/FixedHeader-3.3.2/css/fixedHeader.foundation.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/FixedHeader-3.3.2/css/fixedHeader.foundation.min.css",
+      "PackagePath": "staticwebassets/DataTables/FixedHeader-3.3.2/css/fixedHeader.foundation.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/FixedHeader-3.3.2/css/fixedHeader.jqueryui.css",
+      "PackagePath": "staticwebassets/DataTables/FixedHeader-3.3.2/css/fixedHeader.jqueryui.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/FixedHeader-3.3.2/css/fixedHeader.jqueryui.min.css",
+      "PackagePath": "staticwebassets/DataTables/FixedHeader-3.3.2/css/fixedHeader.jqueryui.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/FixedHeader-3.3.2/css/fixedHeader.semanticui.css",
+      "PackagePath": "staticwebassets/DataTables/FixedHeader-3.3.2/css/fixedHeader.semanticui.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/FixedHeader-3.3.2/css/fixedHeader.semanticui.min.css",
+      "PackagePath": "staticwebassets/DataTables/FixedHeader-3.3.2/css/fixedHeader.semanticui.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/FixedHeader-3.3.2/js/dataTables.fixedHeader.js",
+      "PackagePath": "staticwebassets/DataTables/FixedHeader-3.3.2/js/dataTables.fixedHeader.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/FixedHeader-3.3.2/js/dataTables.fixedHeader.min.js",
+      "PackagePath": "staticwebassets/DataTables/FixedHeader-3.3.2/js/dataTables.fixedHeader.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/FixedHeader-3.3.2/js/fixedHeader.bootstrap.js",
+      "PackagePath": "staticwebassets/DataTables/FixedHeader-3.3.2/js/fixedHeader.bootstrap.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/FixedHeader-3.3.2/js/fixedHeader.bootstrap.min.js",
+      "PackagePath": "staticwebassets/DataTables/FixedHeader-3.3.2/js/fixedHeader.bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/FixedHeader-3.3.2/js/fixedHeader.bootstrap4.js",
+      "PackagePath": "staticwebassets/DataTables/FixedHeader-3.3.2/js/fixedHeader.bootstrap4.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/FixedHeader-3.3.2/js/fixedHeader.bootstrap4.min.js",
+      "PackagePath": "staticwebassets/DataTables/FixedHeader-3.3.2/js/fixedHeader.bootstrap4.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/FixedHeader-3.3.2/js/fixedHeader.bootstrap5.js",
+      "PackagePath": "staticwebassets/DataTables/FixedHeader-3.3.2/js/fixedHeader.bootstrap5.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/FixedHeader-3.3.2/js/fixedHeader.bootstrap5.min.js",
+      "PackagePath": "staticwebassets/DataTables/FixedHeader-3.3.2/js/fixedHeader.bootstrap5.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/FixedHeader-3.3.2/js/fixedHeader.bulma.js",
+      "PackagePath": "staticwebassets/DataTables/FixedHeader-3.3.2/js/fixedHeader.bulma.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/FixedHeader-3.3.2/js/fixedHeader.bulma.min.js",
+      "PackagePath": "staticwebassets/DataTables/FixedHeader-3.3.2/js/fixedHeader.bulma.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/FixedHeader-3.3.2/js/fixedHeader.dataTables.js",
+      "PackagePath": "staticwebassets/DataTables/FixedHeader-3.3.2/js/fixedHeader.dataTables.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/FixedHeader-3.3.2/js/fixedHeader.dataTables.min.js",
+      "PackagePath": "staticwebassets/DataTables/FixedHeader-3.3.2/js/fixedHeader.dataTables.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/FixedHeader-3.3.2/js/fixedHeader.foundation.js",
+      "PackagePath": "staticwebassets/DataTables/FixedHeader-3.3.2/js/fixedHeader.foundation.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/FixedHeader-3.3.2/js/fixedHeader.foundation.min.js",
+      "PackagePath": "staticwebassets/DataTables/FixedHeader-3.3.2/js/fixedHeader.foundation.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/FixedHeader-3.3.2/js/fixedHeader.jqueryui.js",
+      "PackagePath": "staticwebassets/DataTables/FixedHeader-3.3.2/js/fixedHeader.jqueryui.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/FixedHeader-3.3.2/js/fixedHeader.jqueryui.min.js",
+      "PackagePath": "staticwebassets/DataTables/FixedHeader-3.3.2/js/fixedHeader.jqueryui.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/FixedHeader-3.3.2/js/fixedHeader.semanticui.js",
+      "PackagePath": "staticwebassets/DataTables/FixedHeader-3.3.2/js/fixedHeader.semanticui.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/FixedHeader-3.3.2/js/fixedHeader.semanticui.min.js",
+      "PackagePath": "staticwebassets/DataTables/FixedHeader-3.3.2/js/fixedHeader.semanticui.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/JSZip-2.5.0/jszip.js",
+      "PackagePath": "staticwebassets/DataTables/JSZip-2.5.0/jszip.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/JSZip-2.5.0/jszip.min.js",
+      "PackagePath": "staticwebassets/DataTables/JSZip-2.5.0/jszip.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/KeyTable-2.9.0/css/keyTable.bootstrap.css",
+      "PackagePath": "staticwebassets/DataTables/KeyTable-2.9.0/css/keyTable.bootstrap.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/KeyTable-2.9.0/css/keyTable.bootstrap.min.css",
+      "PackagePath": "staticwebassets/DataTables/KeyTable-2.9.0/css/keyTable.bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/KeyTable-2.9.0/css/keyTable.bootstrap4.css",
+      "PackagePath": "staticwebassets/DataTables/KeyTable-2.9.0/css/keyTable.bootstrap4.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/KeyTable-2.9.0/css/keyTable.bootstrap4.min.css",
+      "PackagePath": "staticwebassets/DataTables/KeyTable-2.9.0/css/keyTable.bootstrap4.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/KeyTable-2.9.0/css/keyTable.bootstrap5.css",
+      "PackagePath": "staticwebassets/DataTables/KeyTable-2.9.0/css/keyTable.bootstrap5.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/KeyTable-2.9.0/css/keyTable.bootstrap5.min.css",
+      "PackagePath": "staticwebassets/DataTables/KeyTable-2.9.0/css/keyTable.bootstrap5.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/KeyTable-2.9.0/css/keyTable.bulma.css",
+      "PackagePath": "staticwebassets/DataTables/KeyTable-2.9.0/css/keyTable.bulma.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/KeyTable-2.9.0/css/keyTable.bulma.min.css",
+      "PackagePath": "staticwebassets/DataTables/KeyTable-2.9.0/css/keyTable.bulma.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/KeyTable-2.9.0/css/keyTable.dataTables.css",
+      "PackagePath": "staticwebassets/DataTables/KeyTable-2.9.0/css/keyTable.dataTables.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/KeyTable-2.9.0/css/keyTable.dataTables.min.css",
+      "PackagePath": "staticwebassets/DataTables/KeyTable-2.9.0/css/keyTable.dataTables.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/KeyTable-2.9.0/css/keyTable.foundation.css",
+      "PackagePath": "staticwebassets/DataTables/KeyTable-2.9.0/css/keyTable.foundation.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/KeyTable-2.9.0/css/keyTable.foundation.min.css",
+      "PackagePath": "staticwebassets/DataTables/KeyTable-2.9.0/css/keyTable.foundation.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/KeyTable-2.9.0/css/keyTable.jqueryui.css",
+      "PackagePath": "staticwebassets/DataTables/KeyTable-2.9.0/css/keyTable.jqueryui.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/KeyTable-2.9.0/css/keyTable.jqueryui.min.css",
+      "PackagePath": "staticwebassets/DataTables/KeyTable-2.9.0/css/keyTable.jqueryui.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/KeyTable-2.9.0/css/keyTable.semanticui.css",
+      "PackagePath": "staticwebassets/DataTables/KeyTable-2.9.0/css/keyTable.semanticui.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/KeyTable-2.9.0/css/keyTable.semanticui.min.css",
+      "PackagePath": "staticwebassets/DataTables/KeyTable-2.9.0/css/keyTable.semanticui.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/KeyTable-2.9.0/js/dataTables.keyTable.js",
+      "PackagePath": "staticwebassets/DataTables/KeyTable-2.9.0/js/dataTables.keyTable.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/KeyTable-2.9.0/js/dataTables.keyTable.min.js",
+      "PackagePath": "staticwebassets/DataTables/KeyTable-2.9.0/js/dataTables.keyTable.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/KeyTable-2.9.0/js/keyTable.bootstrap.js",
+      "PackagePath": "staticwebassets/DataTables/KeyTable-2.9.0/js/keyTable.bootstrap.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/KeyTable-2.9.0/js/keyTable.bootstrap.min.js",
+      "PackagePath": "staticwebassets/DataTables/KeyTable-2.9.0/js/keyTable.bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/KeyTable-2.9.0/js/keyTable.bootstrap4.js",
+      "PackagePath": "staticwebassets/DataTables/KeyTable-2.9.0/js/keyTable.bootstrap4.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/KeyTable-2.9.0/js/keyTable.bootstrap4.min.js",
+      "PackagePath": "staticwebassets/DataTables/KeyTable-2.9.0/js/keyTable.bootstrap4.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/KeyTable-2.9.0/js/keyTable.bootstrap5.js",
+      "PackagePath": "staticwebassets/DataTables/KeyTable-2.9.0/js/keyTable.bootstrap5.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/KeyTable-2.9.0/js/keyTable.bootstrap5.min.js",
+      "PackagePath": "staticwebassets/DataTables/KeyTable-2.9.0/js/keyTable.bootstrap5.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/KeyTable-2.9.0/js/keyTable.bulma.js",
+      "PackagePath": "staticwebassets/DataTables/KeyTable-2.9.0/js/keyTable.bulma.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/KeyTable-2.9.0/js/keyTable.bulma.min.js",
+      "PackagePath": "staticwebassets/DataTables/KeyTable-2.9.0/js/keyTable.bulma.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/KeyTable-2.9.0/js/keyTable.dataTables.js",
+      "PackagePath": "staticwebassets/DataTables/KeyTable-2.9.0/js/keyTable.dataTables.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/KeyTable-2.9.0/js/keyTable.dataTables.min.js",
+      "PackagePath": "staticwebassets/DataTables/KeyTable-2.9.0/js/keyTable.dataTables.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/KeyTable-2.9.0/js/keyTable.foundation.js",
+      "PackagePath": "staticwebassets/DataTables/KeyTable-2.9.0/js/keyTable.foundation.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/KeyTable-2.9.0/js/keyTable.foundation.min.js",
+      "PackagePath": "staticwebassets/DataTables/KeyTable-2.9.0/js/keyTable.foundation.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/KeyTable-2.9.0/js/keyTable.jqueryui.js",
+      "PackagePath": "staticwebassets/DataTables/KeyTable-2.9.0/js/keyTable.jqueryui.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/KeyTable-2.9.0/js/keyTable.jqueryui.min.js",
+      "PackagePath": "staticwebassets/DataTables/KeyTable-2.9.0/js/keyTable.jqueryui.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/KeyTable-2.9.0/js/keyTable.semanticui.js",
+      "PackagePath": "staticwebassets/DataTables/KeyTable-2.9.0/js/keyTable.semanticui.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/KeyTable-2.9.0/js/keyTable.semanticui.min.js",
+      "PackagePath": "staticwebassets/DataTables/KeyTable-2.9.0/js/keyTable.semanticui.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Responsive-2.4.1/css/responsive.bootstrap.css",
+      "PackagePath": "staticwebassets/DataTables/Responsive-2.4.1/css/responsive.bootstrap.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Responsive-2.4.1/css/responsive.bootstrap.min.css",
+      "PackagePath": "staticwebassets/DataTables/Responsive-2.4.1/css/responsive.bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Responsive-2.4.1/css/responsive.bootstrap4.css",
+      "PackagePath": "staticwebassets/DataTables/Responsive-2.4.1/css/responsive.bootstrap4.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Responsive-2.4.1/css/responsive.bootstrap4.min.css",
+      "PackagePath": "staticwebassets/DataTables/Responsive-2.4.1/css/responsive.bootstrap4.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Responsive-2.4.1/css/responsive.bootstrap5.css",
+      "PackagePath": "staticwebassets/DataTables/Responsive-2.4.1/css/responsive.bootstrap5.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Responsive-2.4.1/css/responsive.bootstrap5.min.css",
+      "PackagePath": "staticwebassets/DataTables/Responsive-2.4.1/css/responsive.bootstrap5.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Responsive-2.4.1/css/responsive.bulma.css",
+      "PackagePath": "staticwebassets/DataTables/Responsive-2.4.1/css/responsive.bulma.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Responsive-2.4.1/css/responsive.bulma.min.css",
+      "PackagePath": "staticwebassets/DataTables/Responsive-2.4.1/css/responsive.bulma.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Responsive-2.4.1/css/responsive.dataTables.css",
+      "PackagePath": "staticwebassets/DataTables/Responsive-2.4.1/css/responsive.dataTables.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Responsive-2.4.1/css/responsive.dataTables.min.css",
+      "PackagePath": "staticwebassets/DataTables/Responsive-2.4.1/css/responsive.dataTables.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Responsive-2.4.1/css/responsive.foundation.css",
+      "PackagePath": "staticwebassets/DataTables/Responsive-2.4.1/css/responsive.foundation.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Responsive-2.4.1/css/responsive.foundation.min.css",
+      "PackagePath": "staticwebassets/DataTables/Responsive-2.4.1/css/responsive.foundation.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Responsive-2.4.1/css/responsive.jqueryui.css",
+      "PackagePath": "staticwebassets/DataTables/Responsive-2.4.1/css/responsive.jqueryui.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Responsive-2.4.1/css/responsive.jqueryui.min.css",
+      "PackagePath": "staticwebassets/DataTables/Responsive-2.4.1/css/responsive.jqueryui.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Responsive-2.4.1/css/responsive.semanticui.css",
+      "PackagePath": "staticwebassets/DataTables/Responsive-2.4.1/css/responsive.semanticui.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Responsive-2.4.1/css/responsive.semanticui.min.css",
+      "PackagePath": "staticwebassets/DataTables/Responsive-2.4.1/css/responsive.semanticui.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Responsive-2.4.1/js/dataTables.responsive.js",
+      "PackagePath": "staticwebassets/DataTables/Responsive-2.4.1/js/dataTables.responsive.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Responsive-2.4.1/js/dataTables.responsive.min.js",
+      "PackagePath": "staticwebassets/DataTables/Responsive-2.4.1/js/dataTables.responsive.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Responsive-2.4.1/js/responsive.bootstrap.js",
+      "PackagePath": "staticwebassets/DataTables/Responsive-2.4.1/js/responsive.bootstrap.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Responsive-2.4.1/js/responsive.bootstrap.min.js",
+      "PackagePath": "staticwebassets/DataTables/Responsive-2.4.1/js/responsive.bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Responsive-2.4.1/js/responsive.bootstrap4.js",
+      "PackagePath": "staticwebassets/DataTables/Responsive-2.4.1/js/responsive.bootstrap4.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Responsive-2.4.1/js/responsive.bootstrap4.min.js",
+      "PackagePath": "staticwebassets/DataTables/Responsive-2.4.1/js/responsive.bootstrap4.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Responsive-2.4.1/js/responsive.bootstrap5.js",
+      "PackagePath": "staticwebassets/DataTables/Responsive-2.4.1/js/responsive.bootstrap5.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Responsive-2.4.1/js/responsive.bootstrap5.min.js",
+      "PackagePath": "staticwebassets/DataTables/Responsive-2.4.1/js/responsive.bootstrap5.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Responsive-2.4.1/js/responsive.bulma.js",
+      "PackagePath": "staticwebassets/DataTables/Responsive-2.4.1/js/responsive.bulma.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Responsive-2.4.1/js/responsive.bulma.min.js",
+      "PackagePath": "staticwebassets/DataTables/Responsive-2.4.1/js/responsive.bulma.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Responsive-2.4.1/js/responsive.dataTables.js",
+      "PackagePath": "staticwebassets/DataTables/Responsive-2.4.1/js/responsive.dataTables.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Responsive-2.4.1/js/responsive.dataTables.min.js",
+      "PackagePath": "staticwebassets/DataTables/Responsive-2.4.1/js/responsive.dataTables.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Responsive-2.4.1/js/responsive.foundation.js",
+      "PackagePath": "staticwebassets/DataTables/Responsive-2.4.1/js/responsive.foundation.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Responsive-2.4.1/js/responsive.foundation.min.js",
+      "PackagePath": "staticwebassets/DataTables/Responsive-2.4.1/js/responsive.foundation.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Responsive-2.4.1/js/responsive.jqueryui.js",
+      "PackagePath": "staticwebassets/DataTables/Responsive-2.4.1/js/responsive.jqueryui.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Responsive-2.4.1/js/responsive.jqueryui.min.js",
+      "PackagePath": "staticwebassets/DataTables/Responsive-2.4.1/js/responsive.jqueryui.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Responsive-2.4.1/js/responsive.semanticui.js",
+      "PackagePath": "staticwebassets/DataTables/Responsive-2.4.1/js/responsive.semanticui.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Responsive-2.4.1/js/responsive.semanticui.min.js",
+      "PackagePath": "staticwebassets/DataTables/Responsive-2.4.1/js/responsive.semanticui.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/RowGroup-1.3.1/css/rowGroup.bootstrap.css",
+      "PackagePath": "staticwebassets/DataTables/RowGroup-1.3.1/css/rowGroup.bootstrap.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/RowGroup-1.3.1/css/rowGroup.bootstrap.min.css",
+      "PackagePath": "staticwebassets/DataTables/RowGroup-1.3.1/css/rowGroup.bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/RowGroup-1.3.1/css/rowGroup.bootstrap4.css",
+      "PackagePath": "staticwebassets/DataTables/RowGroup-1.3.1/css/rowGroup.bootstrap4.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/RowGroup-1.3.1/css/rowGroup.bootstrap4.min.css",
+      "PackagePath": "staticwebassets/DataTables/RowGroup-1.3.1/css/rowGroup.bootstrap4.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/RowGroup-1.3.1/css/rowGroup.bootstrap5.css",
+      "PackagePath": "staticwebassets/DataTables/RowGroup-1.3.1/css/rowGroup.bootstrap5.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/RowGroup-1.3.1/css/rowGroup.bootstrap5.min.css",
+      "PackagePath": "staticwebassets/DataTables/RowGroup-1.3.1/css/rowGroup.bootstrap5.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/RowGroup-1.3.1/css/rowGroup.bulma.css",
+      "PackagePath": "staticwebassets/DataTables/RowGroup-1.3.1/css/rowGroup.bulma.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/RowGroup-1.3.1/css/rowGroup.bulma.min.css",
+      "PackagePath": "staticwebassets/DataTables/RowGroup-1.3.1/css/rowGroup.bulma.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/RowGroup-1.3.1/css/rowGroup.dataTables.css",
+      "PackagePath": "staticwebassets/DataTables/RowGroup-1.3.1/css/rowGroup.dataTables.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/RowGroup-1.3.1/css/rowGroup.dataTables.min.css",
+      "PackagePath": "staticwebassets/DataTables/RowGroup-1.3.1/css/rowGroup.dataTables.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/RowGroup-1.3.1/css/rowGroup.foundation.css",
+      "PackagePath": "staticwebassets/DataTables/RowGroup-1.3.1/css/rowGroup.foundation.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/RowGroup-1.3.1/css/rowGroup.foundation.min.css",
+      "PackagePath": "staticwebassets/DataTables/RowGroup-1.3.1/css/rowGroup.foundation.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/RowGroup-1.3.1/css/rowGroup.jqueryui.css",
+      "PackagePath": "staticwebassets/DataTables/RowGroup-1.3.1/css/rowGroup.jqueryui.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/RowGroup-1.3.1/css/rowGroup.jqueryui.min.css",
+      "PackagePath": "staticwebassets/DataTables/RowGroup-1.3.1/css/rowGroup.jqueryui.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/RowGroup-1.3.1/css/rowGroup.semanticui.css",
+      "PackagePath": "staticwebassets/DataTables/RowGroup-1.3.1/css/rowGroup.semanticui.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/RowGroup-1.3.1/css/rowGroup.semanticui.min.css",
+      "PackagePath": "staticwebassets/DataTables/RowGroup-1.3.1/css/rowGroup.semanticui.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/RowGroup-1.3.1/js/dataTables.rowGroup.js",
+      "PackagePath": "staticwebassets/DataTables/RowGroup-1.3.1/js/dataTables.rowGroup.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/RowGroup-1.3.1/js/dataTables.rowGroup.min.js",
+      "PackagePath": "staticwebassets/DataTables/RowGroup-1.3.1/js/dataTables.rowGroup.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/RowGroup-1.3.1/js/rowGroup.bootstrap.js",
+      "PackagePath": "staticwebassets/DataTables/RowGroup-1.3.1/js/rowGroup.bootstrap.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/RowGroup-1.3.1/js/rowGroup.bootstrap.min.js",
+      "PackagePath": "staticwebassets/DataTables/RowGroup-1.3.1/js/rowGroup.bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/RowGroup-1.3.1/js/rowGroup.bootstrap4.js",
+      "PackagePath": "staticwebassets/DataTables/RowGroup-1.3.1/js/rowGroup.bootstrap4.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/RowGroup-1.3.1/js/rowGroup.bootstrap4.min.js",
+      "PackagePath": "staticwebassets/DataTables/RowGroup-1.3.1/js/rowGroup.bootstrap4.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/RowGroup-1.3.1/js/rowGroup.bootstrap5.js",
+      "PackagePath": "staticwebassets/DataTables/RowGroup-1.3.1/js/rowGroup.bootstrap5.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/RowGroup-1.3.1/js/rowGroup.bootstrap5.min.js",
+      "PackagePath": "staticwebassets/DataTables/RowGroup-1.3.1/js/rowGroup.bootstrap5.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/RowGroup-1.3.1/js/rowGroup.bulma.js",
+      "PackagePath": "staticwebassets/DataTables/RowGroup-1.3.1/js/rowGroup.bulma.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/RowGroup-1.3.1/js/rowGroup.bulma.min.js",
+      "PackagePath": "staticwebassets/DataTables/RowGroup-1.3.1/js/rowGroup.bulma.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/RowGroup-1.3.1/js/rowGroup.dataTables.js",
+      "PackagePath": "staticwebassets/DataTables/RowGroup-1.3.1/js/rowGroup.dataTables.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/RowGroup-1.3.1/js/rowGroup.dataTables.min.js",
+      "PackagePath": "staticwebassets/DataTables/RowGroup-1.3.1/js/rowGroup.dataTables.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/RowGroup-1.3.1/js/rowGroup.foundation.js",
+      "PackagePath": "staticwebassets/DataTables/RowGroup-1.3.1/js/rowGroup.foundation.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/RowGroup-1.3.1/js/rowGroup.foundation.min.js",
+      "PackagePath": "staticwebassets/DataTables/RowGroup-1.3.1/js/rowGroup.foundation.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/RowGroup-1.3.1/js/rowGroup.jqueryui.js",
+      "PackagePath": "staticwebassets/DataTables/RowGroup-1.3.1/js/rowGroup.jqueryui.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/RowGroup-1.3.1/js/rowGroup.jqueryui.min.js",
+      "PackagePath": "staticwebassets/DataTables/RowGroup-1.3.1/js/rowGroup.jqueryui.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/RowGroup-1.3.1/js/rowGroup.semanticui.js",
+      "PackagePath": "staticwebassets/DataTables/RowGroup-1.3.1/js/rowGroup.semanticui.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/RowGroup-1.3.1/js/rowGroup.semanticui.min.js",
+      "PackagePath": "staticwebassets/DataTables/RowGroup-1.3.1/js/rowGroup.semanticui.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/RowReorder-1.3.3/css/rowReorder.bootstrap.css",
+      "PackagePath": "staticwebassets/DataTables/RowReorder-1.3.3/css/rowReorder.bootstrap.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/RowReorder-1.3.3/css/rowReorder.bootstrap.min.css",
+      "PackagePath": "staticwebassets/DataTables/RowReorder-1.3.3/css/rowReorder.bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/RowReorder-1.3.3/css/rowReorder.bootstrap4.css",
+      "PackagePath": "staticwebassets/DataTables/RowReorder-1.3.3/css/rowReorder.bootstrap4.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/RowReorder-1.3.3/css/rowReorder.bootstrap4.min.css",
+      "PackagePath": "staticwebassets/DataTables/RowReorder-1.3.3/css/rowReorder.bootstrap4.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/RowReorder-1.3.3/css/rowReorder.bootstrap5.css",
+      "PackagePath": "staticwebassets/DataTables/RowReorder-1.3.3/css/rowReorder.bootstrap5.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/RowReorder-1.3.3/css/rowReorder.bootstrap5.min.css",
+      "PackagePath": "staticwebassets/DataTables/RowReorder-1.3.3/css/rowReorder.bootstrap5.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/RowReorder-1.3.3/css/rowReorder.bulma.css",
+      "PackagePath": "staticwebassets/DataTables/RowReorder-1.3.3/css/rowReorder.bulma.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/RowReorder-1.3.3/css/rowReorder.bulma.min.css",
+      "PackagePath": "staticwebassets/DataTables/RowReorder-1.3.3/css/rowReorder.bulma.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/RowReorder-1.3.3/css/rowReorder.dataTables.css",
+      "PackagePath": "staticwebassets/DataTables/RowReorder-1.3.3/css/rowReorder.dataTables.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/RowReorder-1.3.3/css/rowReorder.dataTables.min.css",
+      "PackagePath": "staticwebassets/DataTables/RowReorder-1.3.3/css/rowReorder.dataTables.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/RowReorder-1.3.3/css/rowReorder.foundation.css",
+      "PackagePath": "staticwebassets/DataTables/RowReorder-1.3.3/css/rowReorder.foundation.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/RowReorder-1.3.3/css/rowReorder.foundation.min.css",
+      "PackagePath": "staticwebassets/DataTables/RowReorder-1.3.3/css/rowReorder.foundation.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/RowReorder-1.3.3/css/rowReorder.jqueryui.css",
+      "PackagePath": "staticwebassets/DataTables/RowReorder-1.3.3/css/rowReorder.jqueryui.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/RowReorder-1.3.3/css/rowReorder.jqueryui.min.css",
+      "PackagePath": "staticwebassets/DataTables/RowReorder-1.3.3/css/rowReorder.jqueryui.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/RowReorder-1.3.3/css/rowReorder.semanticui.css",
+      "PackagePath": "staticwebassets/DataTables/RowReorder-1.3.3/css/rowReorder.semanticui.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/RowReorder-1.3.3/css/rowReorder.semanticui.min.css",
+      "PackagePath": "staticwebassets/DataTables/RowReorder-1.3.3/css/rowReorder.semanticui.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/RowReorder-1.3.3/js/dataTables.rowReorder.js",
+      "PackagePath": "staticwebassets/DataTables/RowReorder-1.3.3/js/dataTables.rowReorder.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/RowReorder-1.3.3/js/dataTables.rowReorder.min.js",
+      "PackagePath": "staticwebassets/DataTables/RowReorder-1.3.3/js/dataTables.rowReorder.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/RowReorder-1.3.3/js/rowReorder.bootstrap.js",
+      "PackagePath": "staticwebassets/DataTables/RowReorder-1.3.3/js/rowReorder.bootstrap.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/RowReorder-1.3.3/js/rowReorder.bootstrap.min.js",
+      "PackagePath": "staticwebassets/DataTables/RowReorder-1.3.3/js/rowReorder.bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/RowReorder-1.3.3/js/rowReorder.bootstrap4.js",
+      "PackagePath": "staticwebassets/DataTables/RowReorder-1.3.3/js/rowReorder.bootstrap4.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/RowReorder-1.3.3/js/rowReorder.bootstrap4.min.js",
+      "PackagePath": "staticwebassets/DataTables/RowReorder-1.3.3/js/rowReorder.bootstrap4.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/RowReorder-1.3.3/js/rowReorder.bootstrap5.js",
+      "PackagePath": "staticwebassets/DataTables/RowReorder-1.3.3/js/rowReorder.bootstrap5.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/RowReorder-1.3.3/js/rowReorder.bootstrap5.min.js",
+      "PackagePath": "staticwebassets/DataTables/RowReorder-1.3.3/js/rowReorder.bootstrap5.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/RowReorder-1.3.3/js/rowReorder.bulma.js",
+      "PackagePath": "staticwebassets/DataTables/RowReorder-1.3.3/js/rowReorder.bulma.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/RowReorder-1.3.3/js/rowReorder.bulma.min.js",
+      "PackagePath": "staticwebassets/DataTables/RowReorder-1.3.3/js/rowReorder.bulma.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/RowReorder-1.3.3/js/rowReorder.dataTables.js",
+      "PackagePath": "staticwebassets/DataTables/RowReorder-1.3.3/js/rowReorder.dataTables.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/RowReorder-1.3.3/js/rowReorder.dataTables.min.js",
+      "PackagePath": "staticwebassets/DataTables/RowReorder-1.3.3/js/rowReorder.dataTables.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/RowReorder-1.3.3/js/rowReorder.foundation.js",
+      "PackagePath": "staticwebassets/DataTables/RowReorder-1.3.3/js/rowReorder.foundation.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/RowReorder-1.3.3/js/rowReorder.foundation.min.js",
+      "PackagePath": "staticwebassets/DataTables/RowReorder-1.3.3/js/rowReorder.foundation.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/RowReorder-1.3.3/js/rowReorder.jqueryui.js",
+      "PackagePath": "staticwebassets/DataTables/RowReorder-1.3.3/js/rowReorder.jqueryui.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/RowReorder-1.3.3/js/rowReorder.jqueryui.min.js",
+      "PackagePath": "staticwebassets/DataTables/RowReorder-1.3.3/js/rowReorder.jqueryui.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/RowReorder-1.3.3/js/rowReorder.semanticui.js",
+      "PackagePath": "staticwebassets/DataTables/RowReorder-1.3.3/js/rowReorder.semanticui.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/RowReorder-1.3.3/js/rowReorder.semanticui.min.js",
+      "PackagePath": "staticwebassets/DataTables/RowReorder-1.3.3/js/rowReorder.semanticui.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Scroller-2.1.1/css/scroller.bootstrap.css",
+      "PackagePath": "staticwebassets/DataTables/Scroller-2.1.1/css/scroller.bootstrap.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Scroller-2.1.1/css/scroller.bootstrap.min.css",
+      "PackagePath": "staticwebassets/DataTables/Scroller-2.1.1/css/scroller.bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Scroller-2.1.1/css/scroller.bootstrap4.css",
+      "PackagePath": "staticwebassets/DataTables/Scroller-2.1.1/css/scroller.bootstrap4.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Scroller-2.1.1/css/scroller.bootstrap4.min.css",
+      "PackagePath": "staticwebassets/DataTables/Scroller-2.1.1/css/scroller.bootstrap4.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Scroller-2.1.1/css/scroller.bootstrap5.css",
+      "PackagePath": "staticwebassets/DataTables/Scroller-2.1.1/css/scroller.bootstrap5.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Scroller-2.1.1/css/scroller.bootstrap5.min.css",
+      "PackagePath": "staticwebassets/DataTables/Scroller-2.1.1/css/scroller.bootstrap5.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Scroller-2.1.1/css/scroller.bulma.css",
+      "PackagePath": "staticwebassets/DataTables/Scroller-2.1.1/css/scroller.bulma.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Scroller-2.1.1/css/scroller.bulma.min.css",
+      "PackagePath": "staticwebassets/DataTables/Scroller-2.1.1/css/scroller.bulma.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Scroller-2.1.1/css/scroller.dataTables.css",
+      "PackagePath": "staticwebassets/DataTables/Scroller-2.1.1/css/scroller.dataTables.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Scroller-2.1.1/css/scroller.dataTables.min.css",
+      "PackagePath": "staticwebassets/DataTables/Scroller-2.1.1/css/scroller.dataTables.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Scroller-2.1.1/css/scroller.foundation.css",
+      "PackagePath": "staticwebassets/DataTables/Scroller-2.1.1/css/scroller.foundation.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Scroller-2.1.1/css/scroller.foundation.min.css",
+      "PackagePath": "staticwebassets/DataTables/Scroller-2.1.1/css/scroller.foundation.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Scroller-2.1.1/css/scroller.jqueryui.css",
+      "PackagePath": "staticwebassets/DataTables/Scroller-2.1.1/css/scroller.jqueryui.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Scroller-2.1.1/css/scroller.jqueryui.min.css",
+      "PackagePath": "staticwebassets/DataTables/Scroller-2.1.1/css/scroller.jqueryui.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Scroller-2.1.1/css/scroller.semanticui.css",
+      "PackagePath": "staticwebassets/DataTables/Scroller-2.1.1/css/scroller.semanticui.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Scroller-2.1.1/css/scroller.semanticui.min.css",
+      "PackagePath": "staticwebassets/DataTables/Scroller-2.1.1/css/scroller.semanticui.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Scroller-2.1.1/js/dataTables.scroller.js",
+      "PackagePath": "staticwebassets/DataTables/Scroller-2.1.1/js/dataTables.scroller.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Scroller-2.1.1/js/dataTables.scroller.min.js",
+      "PackagePath": "staticwebassets/DataTables/Scroller-2.1.1/js/dataTables.scroller.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Scroller-2.1.1/js/scroller.bootstrap.js",
+      "PackagePath": "staticwebassets/DataTables/Scroller-2.1.1/js/scroller.bootstrap.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Scroller-2.1.1/js/scroller.bootstrap.min.js",
+      "PackagePath": "staticwebassets/DataTables/Scroller-2.1.1/js/scroller.bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Scroller-2.1.1/js/scroller.bootstrap4.js",
+      "PackagePath": "staticwebassets/DataTables/Scroller-2.1.1/js/scroller.bootstrap4.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Scroller-2.1.1/js/scroller.bootstrap4.min.js",
+      "PackagePath": "staticwebassets/DataTables/Scroller-2.1.1/js/scroller.bootstrap4.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Scroller-2.1.1/js/scroller.bootstrap5.js",
+      "PackagePath": "staticwebassets/DataTables/Scroller-2.1.1/js/scroller.bootstrap5.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Scroller-2.1.1/js/scroller.bootstrap5.min.js",
+      "PackagePath": "staticwebassets/DataTables/Scroller-2.1.1/js/scroller.bootstrap5.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Scroller-2.1.1/js/scroller.bulma.js",
+      "PackagePath": "staticwebassets/DataTables/Scroller-2.1.1/js/scroller.bulma.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Scroller-2.1.1/js/scroller.bulma.min.js",
+      "PackagePath": "staticwebassets/DataTables/Scroller-2.1.1/js/scroller.bulma.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Scroller-2.1.1/js/scroller.dataTables.js",
+      "PackagePath": "staticwebassets/DataTables/Scroller-2.1.1/js/scroller.dataTables.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Scroller-2.1.1/js/scroller.dataTables.min.js",
+      "PackagePath": "staticwebassets/DataTables/Scroller-2.1.1/js/scroller.dataTables.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Scroller-2.1.1/js/scroller.foundation.js",
+      "PackagePath": "staticwebassets/DataTables/Scroller-2.1.1/js/scroller.foundation.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Scroller-2.1.1/js/scroller.foundation.min.js",
+      "PackagePath": "staticwebassets/DataTables/Scroller-2.1.1/js/scroller.foundation.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Scroller-2.1.1/js/scroller.jqueryui.js",
+      "PackagePath": "staticwebassets/DataTables/Scroller-2.1.1/js/scroller.jqueryui.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Scroller-2.1.1/js/scroller.jqueryui.min.js",
+      "PackagePath": "staticwebassets/DataTables/Scroller-2.1.1/js/scroller.jqueryui.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Scroller-2.1.1/js/scroller.semanticui.js",
+      "PackagePath": "staticwebassets/DataTables/Scroller-2.1.1/js/scroller.semanticui.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Scroller-2.1.1/js/scroller.semanticui.min.js",
+      "PackagePath": "staticwebassets/DataTables/Scroller-2.1.1/js/scroller.semanticui.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/SearchBuilder-1.4.2/css/searchBuilder.bootstrap.css",
+      "PackagePath": "staticwebassets/DataTables/SearchBuilder-1.4.2/css/searchBuilder.bootstrap.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/SearchBuilder-1.4.2/css/searchBuilder.bootstrap.min.css",
+      "PackagePath": "staticwebassets/DataTables/SearchBuilder-1.4.2/css/searchBuilder.bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/SearchBuilder-1.4.2/css/searchBuilder.bootstrap4.css",
+      "PackagePath": "staticwebassets/DataTables/SearchBuilder-1.4.2/css/searchBuilder.bootstrap4.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/SearchBuilder-1.4.2/css/searchBuilder.bootstrap4.min.css",
+      "PackagePath": "staticwebassets/DataTables/SearchBuilder-1.4.2/css/searchBuilder.bootstrap4.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/SearchBuilder-1.4.2/css/searchBuilder.bootstrap5.css",
+      "PackagePath": "staticwebassets/DataTables/SearchBuilder-1.4.2/css/searchBuilder.bootstrap5.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/SearchBuilder-1.4.2/css/searchBuilder.bootstrap5.min.css",
+      "PackagePath": "staticwebassets/DataTables/SearchBuilder-1.4.2/css/searchBuilder.bootstrap5.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/SearchBuilder-1.4.2/css/searchBuilder.bulma.css",
+      "PackagePath": "staticwebassets/DataTables/SearchBuilder-1.4.2/css/searchBuilder.bulma.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/SearchBuilder-1.4.2/css/searchBuilder.bulma.min.css",
+      "PackagePath": "staticwebassets/DataTables/SearchBuilder-1.4.2/css/searchBuilder.bulma.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/SearchBuilder-1.4.2/css/searchBuilder.dataTables.css",
+      "PackagePath": "staticwebassets/DataTables/SearchBuilder-1.4.2/css/searchBuilder.dataTables.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/SearchBuilder-1.4.2/css/searchBuilder.dataTables.min.css",
+      "PackagePath": "staticwebassets/DataTables/SearchBuilder-1.4.2/css/searchBuilder.dataTables.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/SearchBuilder-1.4.2/css/searchBuilder.foundation.css",
+      "PackagePath": "staticwebassets/DataTables/SearchBuilder-1.4.2/css/searchBuilder.foundation.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/SearchBuilder-1.4.2/css/searchBuilder.foundation.min.css",
+      "PackagePath": "staticwebassets/DataTables/SearchBuilder-1.4.2/css/searchBuilder.foundation.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/SearchBuilder-1.4.2/css/searchBuilder.jqueryui.css",
+      "PackagePath": "staticwebassets/DataTables/SearchBuilder-1.4.2/css/searchBuilder.jqueryui.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/SearchBuilder-1.4.2/css/searchBuilder.jqueryui.min.css",
+      "PackagePath": "staticwebassets/DataTables/SearchBuilder-1.4.2/css/searchBuilder.jqueryui.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/SearchBuilder-1.4.2/css/searchBuilder.semanticui.css",
+      "PackagePath": "staticwebassets/DataTables/SearchBuilder-1.4.2/css/searchBuilder.semanticui.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/SearchBuilder-1.4.2/css/searchBuilder.semanticui.min.css",
+      "PackagePath": "staticwebassets/DataTables/SearchBuilder-1.4.2/css/searchBuilder.semanticui.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/SearchBuilder-1.4.2/js/dataTables.searchBuilder.js",
+      "PackagePath": "staticwebassets/DataTables/SearchBuilder-1.4.2/js/dataTables.searchBuilder.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/SearchBuilder-1.4.2/js/dataTables.searchBuilder.min.js",
+      "PackagePath": "staticwebassets/DataTables/SearchBuilder-1.4.2/js/dataTables.searchBuilder.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/SearchBuilder-1.4.2/js/searchBuilder.bootstrap.js",
+      "PackagePath": "staticwebassets/DataTables/SearchBuilder-1.4.2/js/searchBuilder.bootstrap.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/SearchBuilder-1.4.2/js/searchBuilder.bootstrap.min.js",
+      "PackagePath": "staticwebassets/DataTables/SearchBuilder-1.4.2/js/searchBuilder.bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/SearchBuilder-1.4.2/js/searchBuilder.bootstrap4.js",
+      "PackagePath": "staticwebassets/DataTables/SearchBuilder-1.4.2/js/searchBuilder.bootstrap4.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/SearchBuilder-1.4.2/js/searchBuilder.bootstrap4.min.js",
+      "PackagePath": "staticwebassets/DataTables/SearchBuilder-1.4.2/js/searchBuilder.bootstrap4.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/SearchBuilder-1.4.2/js/searchBuilder.bootstrap5.js",
+      "PackagePath": "staticwebassets/DataTables/SearchBuilder-1.4.2/js/searchBuilder.bootstrap5.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/SearchBuilder-1.4.2/js/searchBuilder.bootstrap5.min.js",
+      "PackagePath": "staticwebassets/DataTables/SearchBuilder-1.4.2/js/searchBuilder.bootstrap5.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/SearchBuilder-1.4.2/js/searchBuilder.bulma.js",
+      "PackagePath": "staticwebassets/DataTables/SearchBuilder-1.4.2/js/searchBuilder.bulma.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/SearchBuilder-1.4.2/js/searchBuilder.bulma.min.js",
+      "PackagePath": "staticwebassets/DataTables/SearchBuilder-1.4.2/js/searchBuilder.bulma.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/SearchBuilder-1.4.2/js/searchBuilder.dataTables.js",
+      "PackagePath": "staticwebassets/DataTables/SearchBuilder-1.4.2/js/searchBuilder.dataTables.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/SearchBuilder-1.4.2/js/searchBuilder.dataTables.min.js",
+      "PackagePath": "staticwebassets/DataTables/SearchBuilder-1.4.2/js/searchBuilder.dataTables.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/SearchBuilder-1.4.2/js/searchBuilder.foundation.js",
+      "PackagePath": "staticwebassets/DataTables/SearchBuilder-1.4.2/js/searchBuilder.foundation.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/SearchBuilder-1.4.2/js/searchBuilder.foundation.min.js",
+      "PackagePath": "staticwebassets/DataTables/SearchBuilder-1.4.2/js/searchBuilder.foundation.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/SearchBuilder-1.4.2/js/searchBuilder.jqueryui.js",
+      "PackagePath": "staticwebassets/DataTables/SearchBuilder-1.4.2/js/searchBuilder.jqueryui.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/SearchBuilder-1.4.2/js/searchBuilder.jqueryui.min.js",
+      "PackagePath": "staticwebassets/DataTables/SearchBuilder-1.4.2/js/searchBuilder.jqueryui.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/SearchBuilder-1.4.2/js/searchBuilder.semanticui.js",
+      "PackagePath": "staticwebassets/DataTables/SearchBuilder-1.4.2/js/searchBuilder.semanticui.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/SearchBuilder-1.4.2/js/searchBuilder.semanticui.min.js",
+      "PackagePath": "staticwebassets/DataTables/SearchBuilder-1.4.2/js/searchBuilder.semanticui.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/SearchPanes-2.1.2/css/searchPanes.bootstrap.css",
+      "PackagePath": "staticwebassets/DataTables/SearchPanes-2.1.2/css/searchPanes.bootstrap.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/SearchPanes-2.1.2/css/searchPanes.bootstrap.min.css",
+      "PackagePath": "staticwebassets/DataTables/SearchPanes-2.1.2/css/searchPanes.bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/SearchPanes-2.1.2/css/searchPanes.bootstrap4.css",
+      "PackagePath": "staticwebassets/DataTables/SearchPanes-2.1.2/css/searchPanes.bootstrap4.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/SearchPanes-2.1.2/css/searchPanes.bootstrap4.min.css",
+      "PackagePath": "staticwebassets/DataTables/SearchPanes-2.1.2/css/searchPanes.bootstrap4.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/SearchPanes-2.1.2/css/searchPanes.bootstrap5.css",
+      "PackagePath": "staticwebassets/DataTables/SearchPanes-2.1.2/css/searchPanes.bootstrap5.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/SearchPanes-2.1.2/css/searchPanes.bootstrap5.min.css",
+      "PackagePath": "staticwebassets/DataTables/SearchPanes-2.1.2/css/searchPanes.bootstrap5.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/SearchPanes-2.1.2/css/searchPanes.bulma.css",
+      "PackagePath": "staticwebassets/DataTables/SearchPanes-2.1.2/css/searchPanes.bulma.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/SearchPanes-2.1.2/css/searchPanes.bulma.min.css",
+      "PackagePath": "staticwebassets/DataTables/SearchPanes-2.1.2/css/searchPanes.bulma.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/SearchPanes-2.1.2/css/searchPanes.dataTables.css",
+      "PackagePath": "staticwebassets/DataTables/SearchPanes-2.1.2/css/searchPanes.dataTables.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/SearchPanes-2.1.2/css/searchPanes.dataTables.min.css",
+      "PackagePath": "staticwebassets/DataTables/SearchPanes-2.1.2/css/searchPanes.dataTables.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/SearchPanes-2.1.2/css/searchPanes.foundation.css",
+      "PackagePath": "staticwebassets/DataTables/SearchPanes-2.1.2/css/searchPanes.foundation.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/SearchPanes-2.1.2/css/searchPanes.foundation.min.css",
+      "PackagePath": "staticwebassets/DataTables/SearchPanes-2.1.2/css/searchPanes.foundation.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/SearchPanes-2.1.2/css/searchPanes.jqueryui.css",
+      "PackagePath": "staticwebassets/DataTables/SearchPanes-2.1.2/css/searchPanes.jqueryui.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/SearchPanes-2.1.2/css/searchPanes.jqueryui.min.css",
+      "PackagePath": "staticwebassets/DataTables/SearchPanes-2.1.2/css/searchPanes.jqueryui.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/SearchPanes-2.1.2/css/searchPanes.semanticui.css",
+      "PackagePath": "staticwebassets/DataTables/SearchPanes-2.1.2/css/searchPanes.semanticui.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/SearchPanes-2.1.2/css/searchPanes.semanticui.min.css",
+      "PackagePath": "staticwebassets/DataTables/SearchPanes-2.1.2/css/searchPanes.semanticui.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/SearchPanes-2.1.2/js/dataTables.searchPanes.js",
+      "PackagePath": "staticwebassets/DataTables/SearchPanes-2.1.2/js/dataTables.searchPanes.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/SearchPanes-2.1.2/js/dataTables.searchPanes.min.js",
+      "PackagePath": "staticwebassets/DataTables/SearchPanes-2.1.2/js/dataTables.searchPanes.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/SearchPanes-2.1.2/js/searchPanes.bootstrap.js",
+      "PackagePath": "staticwebassets/DataTables/SearchPanes-2.1.2/js/searchPanes.bootstrap.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/SearchPanes-2.1.2/js/searchPanes.bootstrap.min.js",
+      "PackagePath": "staticwebassets/DataTables/SearchPanes-2.1.2/js/searchPanes.bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/SearchPanes-2.1.2/js/searchPanes.bootstrap4.js",
+      "PackagePath": "staticwebassets/DataTables/SearchPanes-2.1.2/js/searchPanes.bootstrap4.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/SearchPanes-2.1.2/js/searchPanes.bootstrap4.min.js",
+      "PackagePath": "staticwebassets/DataTables/SearchPanes-2.1.2/js/searchPanes.bootstrap4.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/SearchPanes-2.1.2/js/searchPanes.bootstrap5.js",
+      "PackagePath": "staticwebassets/DataTables/SearchPanes-2.1.2/js/searchPanes.bootstrap5.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/SearchPanes-2.1.2/js/searchPanes.bootstrap5.min.js",
+      "PackagePath": "staticwebassets/DataTables/SearchPanes-2.1.2/js/searchPanes.bootstrap5.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/SearchPanes-2.1.2/js/searchPanes.bulma.js",
+      "PackagePath": "staticwebassets/DataTables/SearchPanes-2.1.2/js/searchPanes.bulma.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/SearchPanes-2.1.2/js/searchPanes.bulma.min.js",
+      "PackagePath": "staticwebassets/DataTables/SearchPanes-2.1.2/js/searchPanes.bulma.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/SearchPanes-2.1.2/js/searchPanes.dataTables.js",
+      "PackagePath": "staticwebassets/DataTables/SearchPanes-2.1.2/js/searchPanes.dataTables.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/SearchPanes-2.1.2/js/searchPanes.dataTables.min.js",
+      "PackagePath": "staticwebassets/DataTables/SearchPanes-2.1.2/js/searchPanes.dataTables.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/SearchPanes-2.1.2/js/searchPanes.foundation.js",
+      "PackagePath": "staticwebassets/DataTables/SearchPanes-2.1.2/js/searchPanes.foundation.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/SearchPanes-2.1.2/js/searchPanes.foundation.min.js",
+      "PackagePath": "staticwebassets/DataTables/SearchPanes-2.1.2/js/searchPanes.foundation.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/SearchPanes-2.1.2/js/searchPanes.jqueryui.js",
+      "PackagePath": "staticwebassets/DataTables/SearchPanes-2.1.2/js/searchPanes.jqueryui.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/SearchPanes-2.1.2/js/searchPanes.jqueryui.min.js",
+      "PackagePath": "staticwebassets/DataTables/SearchPanes-2.1.2/js/searchPanes.jqueryui.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/SearchPanes-2.1.2/js/searchPanes.semanticui.js",
+      "PackagePath": "staticwebassets/DataTables/SearchPanes-2.1.2/js/searchPanes.semanticui.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/SearchPanes-2.1.2/js/searchPanes.semanticui.min.js",
+      "PackagePath": "staticwebassets/DataTables/SearchPanes-2.1.2/js/searchPanes.semanticui.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Select-1.6.2/css/select.bootstrap.css",
+      "PackagePath": "staticwebassets/DataTables/Select-1.6.2/css/select.bootstrap.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Select-1.6.2/css/select.bootstrap.min.css",
+      "PackagePath": "staticwebassets/DataTables/Select-1.6.2/css/select.bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Select-1.6.2/css/select.bootstrap4.css",
+      "PackagePath": "staticwebassets/DataTables/Select-1.6.2/css/select.bootstrap4.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Select-1.6.2/css/select.bootstrap4.min.css",
+      "PackagePath": "staticwebassets/DataTables/Select-1.6.2/css/select.bootstrap4.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Select-1.6.2/css/select.bootstrap5.css",
+      "PackagePath": "staticwebassets/DataTables/Select-1.6.2/css/select.bootstrap5.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Select-1.6.2/css/select.bootstrap5.min.css",
+      "PackagePath": "staticwebassets/DataTables/Select-1.6.2/css/select.bootstrap5.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Select-1.6.2/css/select.bulma.css",
+      "PackagePath": "staticwebassets/DataTables/Select-1.6.2/css/select.bulma.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Select-1.6.2/css/select.bulma.min.css",
+      "PackagePath": "staticwebassets/DataTables/Select-1.6.2/css/select.bulma.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Select-1.6.2/css/select.dataTables.css",
+      "PackagePath": "staticwebassets/DataTables/Select-1.6.2/css/select.dataTables.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Select-1.6.2/css/select.dataTables.min.css",
+      "PackagePath": "staticwebassets/DataTables/Select-1.6.2/css/select.dataTables.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Select-1.6.2/css/select.foundation.css",
+      "PackagePath": "staticwebassets/DataTables/Select-1.6.2/css/select.foundation.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Select-1.6.2/css/select.foundation.min.css",
+      "PackagePath": "staticwebassets/DataTables/Select-1.6.2/css/select.foundation.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Select-1.6.2/css/select.jqueryui.css",
+      "PackagePath": "staticwebassets/DataTables/Select-1.6.2/css/select.jqueryui.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Select-1.6.2/css/select.jqueryui.min.css",
+      "PackagePath": "staticwebassets/DataTables/Select-1.6.2/css/select.jqueryui.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Select-1.6.2/css/select.semanticui.css",
+      "PackagePath": "staticwebassets/DataTables/Select-1.6.2/css/select.semanticui.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Select-1.6.2/css/select.semanticui.min.css",
+      "PackagePath": "staticwebassets/DataTables/Select-1.6.2/css/select.semanticui.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Select-1.6.2/js/dataTables.select.js",
+      "PackagePath": "staticwebassets/DataTables/Select-1.6.2/js/dataTables.select.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Select-1.6.2/js/dataTables.select.min.js",
+      "PackagePath": "staticwebassets/DataTables/Select-1.6.2/js/dataTables.select.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Select-1.6.2/js/select.bootstrap.js",
+      "PackagePath": "staticwebassets/DataTables/Select-1.6.2/js/select.bootstrap.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Select-1.6.2/js/select.bootstrap.min.js",
+      "PackagePath": "staticwebassets/DataTables/Select-1.6.2/js/select.bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Select-1.6.2/js/select.bootstrap4.js",
+      "PackagePath": "staticwebassets/DataTables/Select-1.6.2/js/select.bootstrap4.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Select-1.6.2/js/select.bootstrap4.min.js",
+      "PackagePath": "staticwebassets/DataTables/Select-1.6.2/js/select.bootstrap4.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Select-1.6.2/js/select.bootstrap5.js",
+      "PackagePath": "staticwebassets/DataTables/Select-1.6.2/js/select.bootstrap5.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Select-1.6.2/js/select.bootstrap5.min.js",
+      "PackagePath": "staticwebassets/DataTables/Select-1.6.2/js/select.bootstrap5.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Select-1.6.2/js/select.bulma.js",
+      "PackagePath": "staticwebassets/DataTables/Select-1.6.2/js/select.bulma.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Select-1.6.2/js/select.bulma.min.js",
+      "PackagePath": "staticwebassets/DataTables/Select-1.6.2/js/select.bulma.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Select-1.6.2/js/select.dataTables.js",
+      "PackagePath": "staticwebassets/DataTables/Select-1.6.2/js/select.dataTables.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Select-1.6.2/js/select.dataTables.min.js",
+      "PackagePath": "staticwebassets/DataTables/Select-1.6.2/js/select.dataTables.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Select-1.6.2/js/select.foundation.js",
+      "PackagePath": "staticwebassets/DataTables/Select-1.6.2/js/select.foundation.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Select-1.6.2/js/select.foundation.min.js",
+      "PackagePath": "staticwebassets/DataTables/Select-1.6.2/js/select.foundation.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Select-1.6.2/js/select.jqueryui.js",
+      "PackagePath": "staticwebassets/DataTables/Select-1.6.2/js/select.jqueryui.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Select-1.6.2/js/select.jqueryui.min.js",
+      "PackagePath": "staticwebassets/DataTables/Select-1.6.2/js/select.jqueryui.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Select-1.6.2/js/select.semanticui.js",
+      "PackagePath": "staticwebassets/DataTables/Select-1.6.2/js/select.semanticui.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/Select-1.6.2/js/select.semanticui.min.js",
+      "PackagePath": "staticwebassets/DataTables/Select-1.6.2/js/select.semanticui.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/StateRestore-1.2.2/css/stateRestore.bootstrap.css",
+      "PackagePath": "staticwebassets/DataTables/StateRestore-1.2.2/css/stateRestore.bootstrap.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/StateRestore-1.2.2/css/stateRestore.bootstrap.min.css",
+      "PackagePath": "staticwebassets/DataTables/StateRestore-1.2.2/css/stateRestore.bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/StateRestore-1.2.2/css/stateRestore.bootstrap4.css",
+      "PackagePath": "staticwebassets/DataTables/StateRestore-1.2.2/css/stateRestore.bootstrap4.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/StateRestore-1.2.2/css/stateRestore.bootstrap4.min.css",
+      "PackagePath": "staticwebassets/DataTables/StateRestore-1.2.2/css/stateRestore.bootstrap4.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/StateRestore-1.2.2/css/stateRestore.bootstrap5.css",
+      "PackagePath": "staticwebassets/DataTables/StateRestore-1.2.2/css/stateRestore.bootstrap5.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/StateRestore-1.2.2/css/stateRestore.bootstrap5.min.css",
+      "PackagePath": "staticwebassets/DataTables/StateRestore-1.2.2/css/stateRestore.bootstrap5.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/StateRestore-1.2.2/css/stateRestore.bulma.css",
+      "PackagePath": "staticwebassets/DataTables/StateRestore-1.2.2/css/stateRestore.bulma.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/StateRestore-1.2.2/css/stateRestore.bulma.min.css",
+      "PackagePath": "staticwebassets/DataTables/StateRestore-1.2.2/css/stateRestore.bulma.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/StateRestore-1.2.2/css/stateRestore.dataTables.css",
+      "PackagePath": "staticwebassets/DataTables/StateRestore-1.2.2/css/stateRestore.dataTables.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/StateRestore-1.2.2/css/stateRestore.dataTables.min.css",
+      "PackagePath": "staticwebassets/DataTables/StateRestore-1.2.2/css/stateRestore.dataTables.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/StateRestore-1.2.2/css/stateRestore.foundation.css",
+      "PackagePath": "staticwebassets/DataTables/StateRestore-1.2.2/css/stateRestore.foundation.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/StateRestore-1.2.2/css/stateRestore.foundation.min.css",
+      "PackagePath": "staticwebassets/DataTables/StateRestore-1.2.2/css/stateRestore.foundation.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/StateRestore-1.2.2/css/stateRestore.jqueryui.css",
+      "PackagePath": "staticwebassets/DataTables/StateRestore-1.2.2/css/stateRestore.jqueryui.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/StateRestore-1.2.2/css/stateRestore.jqueryui.min.css",
+      "PackagePath": "staticwebassets/DataTables/StateRestore-1.2.2/css/stateRestore.jqueryui.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/StateRestore-1.2.2/css/stateRestore.semanticui.css",
+      "PackagePath": "staticwebassets/DataTables/StateRestore-1.2.2/css/stateRestore.semanticui.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/StateRestore-1.2.2/css/stateRestore.semanticui.min.css",
+      "PackagePath": "staticwebassets/DataTables/StateRestore-1.2.2/css/stateRestore.semanticui.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/StateRestore-1.2.2/js/dataTables.stateRestore.js",
+      "PackagePath": "staticwebassets/DataTables/StateRestore-1.2.2/js/dataTables.stateRestore.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/StateRestore-1.2.2/js/dataTables.stateRestore.min.js",
+      "PackagePath": "staticwebassets/DataTables/StateRestore-1.2.2/js/dataTables.stateRestore.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/StateRestore-1.2.2/js/stateRestore.bootstrap.js",
+      "PackagePath": "staticwebassets/DataTables/StateRestore-1.2.2/js/stateRestore.bootstrap.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/StateRestore-1.2.2/js/stateRestore.bootstrap.min.js",
+      "PackagePath": "staticwebassets/DataTables/StateRestore-1.2.2/js/stateRestore.bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/StateRestore-1.2.2/js/stateRestore.bootstrap4.js",
+      "PackagePath": "staticwebassets/DataTables/StateRestore-1.2.2/js/stateRestore.bootstrap4.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/StateRestore-1.2.2/js/stateRestore.bootstrap4.min.js",
+      "PackagePath": "staticwebassets/DataTables/StateRestore-1.2.2/js/stateRestore.bootstrap4.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/StateRestore-1.2.2/js/stateRestore.bootstrap5.js",
+      "PackagePath": "staticwebassets/DataTables/StateRestore-1.2.2/js/stateRestore.bootstrap5.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/StateRestore-1.2.2/js/stateRestore.bootstrap5.min.js",
+      "PackagePath": "staticwebassets/DataTables/StateRestore-1.2.2/js/stateRestore.bootstrap5.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/StateRestore-1.2.2/js/stateRestore.bulma.js",
+      "PackagePath": "staticwebassets/DataTables/StateRestore-1.2.2/js/stateRestore.bulma.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/StateRestore-1.2.2/js/stateRestore.bulma.min.js",
+      "PackagePath": "staticwebassets/DataTables/StateRestore-1.2.2/js/stateRestore.bulma.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/StateRestore-1.2.2/js/stateRestore.dataTables.js",
+      "PackagePath": "staticwebassets/DataTables/StateRestore-1.2.2/js/stateRestore.dataTables.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/StateRestore-1.2.2/js/stateRestore.dataTables.min.js",
+      "PackagePath": "staticwebassets/DataTables/StateRestore-1.2.2/js/stateRestore.dataTables.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/StateRestore-1.2.2/js/stateRestore.foundation.js",
+      "PackagePath": "staticwebassets/DataTables/StateRestore-1.2.2/js/stateRestore.foundation.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/StateRestore-1.2.2/js/stateRestore.foundation.min.js",
+      "PackagePath": "staticwebassets/DataTables/StateRestore-1.2.2/js/stateRestore.foundation.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/StateRestore-1.2.2/js/stateRestore.jqueryui.js",
+      "PackagePath": "staticwebassets/DataTables/StateRestore-1.2.2/js/stateRestore.jqueryui.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/StateRestore-1.2.2/js/stateRestore.jqueryui.min.js",
+      "PackagePath": "staticwebassets/DataTables/StateRestore-1.2.2/js/stateRestore.jqueryui.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/StateRestore-1.2.2/js/stateRestore.semanticui.js",
+      "PackagePath": "staticwebassets/DataTables/StateRestore-1.2.2/js/stateRestore.semanticui.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/StateRestore-1.2.2/js/stateRestore.semanticui.min.js",
+      "PackagePath": "staticwebassets/DataTables/StateRestore-1.2.2/js/stateRestore.semanticui.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/datatables.css",
+      "PackagePath": "staticwebassets/DataTables/datatables.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/datatables.js",
+      "PackagePath": "staticwebassets/DataTables/datatables.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/datatables.min.css",
+      "PackagePath": "staticwebassets/DataTables/datatables.min.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/datatables.min.js",
+      "PackagePath": "staticwebassets/DataTables/datatables.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/pdfmake-0.2.7/pdfmake.js",
+      "PackagePath": "staticwebassets/DataTables/pdfmake-0.2.7/pdfmake.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/pdfmake-0.2.7/pdfmake.min.js",
+      "PackagePath": "staticwebassets/DataTables/pdfmake-0.2.7/pdfmake.min.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/DataTables/pdfmake-0.2.7/vfs_fonts.js",
+      "PackagePath": "staticwebassets/DataTables/pdfmake-0.2.7/vfs_fonts.js"
+    },
+    {
       "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },
     {
       "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/favicon.ico",
       "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/js/StudentView.js",
+      "PackagePath": "staticwebassets/js/StudentView.js"
     },
     {
       "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/js/site.js",
@@ -243,6 +2399,946 @@
     {
       "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/lib/jquery/dist/jquery.min.map",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/CHANGELOG.md",
+      "PackagePath": "staticwebassets/sneat-1.0.0/CHANGELOG.md"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/LICENSE.md",
+      "PackagePath": "staticwebassets/sneat-1.0.0/LICENSE.md"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/README.md",
+      "PackagePath": "staticwebassets/sneat-1.0.0/README.md"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/css/demo.css",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/css/demo.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/img/avatars/1.png",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/img/avatars/1.png"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/img/avatars/5.png",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/img/avatars/5.png"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/img/avatars/6.png",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/img/avatars/6.png"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/img/avatars/7.png",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/img/avatars/7.png"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/img/backgrounds/18.jpg",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/img/backgrounds/18.jpg"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/img/elements/1.jpg",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/img/elements/1.jpg"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/img/elements/11.jpg",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/img/elements/11.jpg"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/img/elements/12.jpg",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/img/elements/12.jpg"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/img/elements/13.jpg",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/img/elements/13.jpg"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/img/elements/17.jpg",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/img/elements/17.jpg"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/img/elements/18.jpg",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/img/elements/18.jpg"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/img/elements/19.jpg",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/img/elements/19.jpg"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/img/elements/2.jpg",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/img/elements/2.jpg"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/img/elements/20.jpg",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/img/elements/20.jpg"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/img/elements/3.jpg",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/img/elements/3.jpg"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/img/elements/4.jpg",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/img/elements/4.jpg"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/img/elements/5.jpg",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/img/elements/5.jpg"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/img/elements/7.jpg",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/img/elements/7.jpg"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/img/favicon/favicon.ico",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/img/favicon/favicon.ico"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/img/icons/brands/asana.png",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/img/icons/brands/asana.png"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/img/icons/brands/behance.png",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/img/icons/brands/behance.png"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/img/icons/brands/dribbble.png",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/img/icons/brands/dribbble.png"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/img/icons/brands/facebook.png",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/img/icons/brands/facebook.png"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/img/icons/brands/github.png",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/img/icons/brands/github.png"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/img/icons/brands/google.png",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/img/icons/brands/google.png"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/img/icons/brands/instagram.png",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/img/icons/brands/instagram.png"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/img/icons/brands/mailchimp.png",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/img/icons/brands/mailchimp.png"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/img/icons/brands/slack.png",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/img/icons/brands/slack.png"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/img/icons/brands/twitter.png",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/img/icons/brands/twitter.png"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/img/icons/unicons/cc-primary.png",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/img/icons/unicons/cc-primary.png"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/img/icons/unicons/cc-success.png",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/img/icons/unicons/cc-success.png"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/img/icons/unicons/cc-warning.png",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/img/icons/unicons/cc-warning.png"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/img/icons/unicons/chart-success.png",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/img/icons/unicons/chart-success.png"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/img/icons/unicons/chart.png",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/img/icons/unicons/chart.png"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/img/icons/unicons/paypal.png",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/img/icons/unicons/paypal.png"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/img/icons/unicons/wallet-info.png",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/img/icons/unicons/wallet-info.png"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/img/icons/unicons/wallet.png",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/img/icons/unicons/wallet.png"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/img/illustrations/girl-doing-yoga-light.png",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/img/illustrations/girl-doing-yoga-light.png"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/img/illustrations/man-with-laptop-light.png",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/img/illustrations/man-with-laptop-light.png"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/img/illustrations/page-misc-error-light.png",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/img/illustrations/page-misc-error-light.png"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/img/layouts/layout-container-light.png",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/img/layouts/layout-container-light.png"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/img/layouts/layout-fluid-light.png",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/img/layouts/layout-fluid-light.png"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/img/layouts/layout-without-menu-light.png",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/img/layouts/layout-without-menu-light.png"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/img/layouts/layout-without-navbar-light.png",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/img/layouts/layout-without-navbar-light.png"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/js/config.js",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/js/config.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/js/dashboards-analytics.js",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/js/dashboards-analytics.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/js/extended-ui-perfect-scrollbar.js",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/js/extended-ui-perfect-scrollbar.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/js/form-basic-inputs.js",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/js/form-basic-inputs.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/js/main.js",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/js/main.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/js/pages-account-settings-account.js",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/js/pages-account-settings-account.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/js/ui-modals.js",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/js/ui-modals.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/js/ui-popover.js",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/js/ui-popover.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/js/ui-toasts.js",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/js/ui-toasts.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/vendor/css/core.css",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/vendor/css/core.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/vendor/css/pages/page-account-settings.css",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/vendor/css/pages/page-account-settings.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/vendor/css/pages/page-auth.css",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/vendor/css/pages/page-auth.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/vendor/css/pages/page-icons.css",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/vendor/css/pages/page-icons.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/vendor/css/pages/page-misc.css",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/vendor/css/pages/page-misc.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/vendor/css/theme-default.css",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/vendor/css/theme-default.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/vendor/fonts/boxicons.css",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/vendor/fonts/boxicons.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/vendor/fonts/boxicons/boxicons.eot",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/vendor/fonts/boxicons/boxicons.eot"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/vendor/fonts/boxicons/boxicons.svg",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/vendor/fonts/boxicons/boxicons.svg"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/vendor/fonts/boxicons/boxicons.ttf",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/vendor/fonts/boxicons/boxicons.ttf"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/vendor/fonts/boxicons/boxicons.woff",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/vendor/fonts/boxicons/boxicons.woff"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/vendor/fonts/boxicons/boxicons.woff2",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/vendor/fonts/boxicons/boxicons.woff2"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/vendor/js/bootstrap.js",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/vendor/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/vendor/js/helpers.js",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/vendor/js/helpers.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/vendor/js/menu.js",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/vendor/js/menu.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/vendor/libs/apex-charts/apex-charts.css",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/vendor/libs/apex-charts/apex-charts.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/vendor/libs/apex-charts/apexcharts.js",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/vendor/libs/apex-charts/apexcharts.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/vendor/libs/highlight/highlight-github.css",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/vendor/libs/highlight/highlight-github.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/vendor/libs/highlight/highlight.css",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/vendor/libs/highlight/highlight.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/vendor/libs/highlight/highlight.js",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/vendor/libs/highlight/highlight.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/vendor/libs/jquery/jquery.js",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/vendor/libs/jquery/jquery.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/vendor/libs/masonry/masonry.js",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/vendor/libs/masonry/masonry.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.css",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.css"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.js",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/assets/vendor/libs/popper/popper.js",
+      "PackagePath": "staticwebassets/sneat-1.0.0/assets/vendor/libs/popper/popper.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/build-config.js",
+      "PackagePath": "staticwebassets/sneat-1.0.0/build-config.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/documentation.html",
+      "PackagePath": "staticwebassets/sneat-1.0.0/documentation.html"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/fonts/boxicons.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/fonts/boxicons.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/gulpfile.js",
+      "PackagePath": "staticwebassets/sneat-1.0.0/gulpfile.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/html/auth-forgot-password-basic.html",
+      "PackagePath": "staticwebassets/sneat-1.0.0/html/auth-forgot-password-basic.html"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/html/auth-login-basic.html",
+      "PackagePath": "staticwebassets/sneat-1.0.0/html/auth-login-basic.html"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/html/auth-register-basic.html",
+      "PackagePath": "staticwebassets/sneat-1.0.0/html/auth-register-basic.html"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/html/cards-basic.html",
+      "PackagePath": "staticwebassets/sneat-1.0.0/html/cards-basic.html"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/html/extended-ui-perfect-scrollbar.html",
+      "PackagePath": "staticwebassets/sneat-1.0.0/html/extended-ui-perfect-scrollbar.html"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/html/extended-ui-text-divider.html",
+      "PackagePath": "staticwebassets/sneat-1.0.0/html/extended-ui-text-divider.html"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/html/form-layouts-horizontal.html",
+      "PackagePath": "staticwebassets/sneat-1.0.0/html/form-layouts-horizontal.html"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/html/form-layouts-vertical.html",
+      "PackagePath": "staticwebassets/sneat-1.0.0/html/form-layouts-vertical.html"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/html/forms-basic-inputs.html",
+      "PackagePath": "staticwebassets/sneat-1.0.0/html/forms-basic-inputs.html"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/html/forms-input-groups.html",
+      "PackagePath": "staticwebassets/sneat-1.0.0/html/forms-input-groups.html"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/html/icons-boxicons.html",
+      "PackagePath": "staticwebassets/sneat-1.0.0/html/icons-boxicons.html"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/html/index.html",
+      "PackagePath": "staticwebassets/sneat-1.0.0/html/index.html"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/html/layouts-blank.html",
+      "PackagePath": "staticwebassets/sneat-1.0.0/html/layouts-blank.html"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/html/layouts-container.html",
+      "PackagePath": "staticwebassets/sneat-1.0.0/html/layouts-container.html"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/html/layouts-fluid.html",
+      "PackagePath": "staticwebassets/sneat-1.0.0/html/layouts-fluid.html"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/html/layouts-without-menu.html",
+      "PackagePath": "staticwebassets/sneat-1.0.0/html/layouts-without-menu.html"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/html/layouts-without-navbar.html",
+      "PackagePath": "staticwebassets/sneat-1.0.0/html/layouts-without-navbar.html"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/html/pages-account-settings-account.html",
+      "PackagePath": "staticwebassets/sneat-1.0.0/html/pages-account-settings-account.html"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/html/pages-account-settings-connections.html",
+      "PackagePath": "staticwebassets/sneat-1.0.0/html/pages-account-settings-connections.html"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/html/pages-account-settings-notifications.html",
+      "PackagePath": "staticwebassets/sneat-1.0.0/html/pages-account-settings-notifications.html"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/html/pages-misc-error.html",
+      "PackagePath": "staticwebassets/sneat-1.0.0/html/pages-misc-error.html"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/html/pages-misc-under-maintenance.html",
+      "PackagePath": "staticwebassets/sneat-1.0.0/html/pages-misc-under-maintenance.html"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/html/tables-basic.html",
+      "PackagePath": "staticwebassets/sneat-1.0.0/html/tables-basic.html"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/html/ui-accordion.html",
+      "PackagePath": "staticwebassets/sneat-1.0.0/html/ui-accordion.html"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/html/ui-alerts.html",
+      "PackagePath": "staticwebassets/sneat-1.0.0/html/ui-alerts.html"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/html/ui-badges.html",
+      "PackagePath": "staticwebassets/sneat-1.0.0/html/ui-badges.html"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/html/ui-buttons.html",
+      "PackagePath": "staticwebassets/sneat-1.0.0/html/ui-buttons.html"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/html/ui-carousel.html",
+      "PackagePath": "staticwebassets/sneat-1.0.0/html/ui-carousel.html"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/html/ui-collapse.html",
+      "PackagePath": "staticwebassets/sneat-1.0.0/html/ui-collapse.html"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/html/ui-dropdowns.html",
+      "PackagePath": "staticwebassets/sneat-1.0.0/html/ui-dropdowns.html"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/html/ui-footer.html",
+      "PackagePath": "staticwebassets/sneat-1.0.0/html/ui-footer.html"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/html/ui-list-groups.html",
+      "PackagePath": "staticwebassets/sneat-1.0.0/html/ui-list-groups.html"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/html/ui-modals.html",
+      "PackagePath": "staticwebassets/sneat-1.0.0/html/ui-modals.html"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/html/ui-navbar.html",
+      "PackagePath": "staticwebassets/sneat-1.0.0/html/ui-navbar.html"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/html/ui-offcanvas.html",
+      "PackagePath": "staticwebassets/sneat-1.0.0/html/ui-offcanvas.html"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/html/ui-pagination-breadcrumbs.html",
+      "PackagePath": "staticwebassets/sneat-1.0.0/html/ui-pagination-breadcrumbs.html"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/html/ui-progress.html",
+      "PackagePath": "staticwebassets/sneat-1.0.0/html/ui-progress.html"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/html/ui-spinners.html",
+      "PackagePath": "staticwebassets/sneat-1.0.0/html/ui-spinners.html"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/html/ui-tabs-pills.html",
+      "PackagePath": "staticwebassets/sneat-1.0.0/html/ui-tabs-pills.html"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/html/ui-toasts.html",
+      "PackagePath": "staticwebassets/sneat-1.0.0/html/ui-toasts.html"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/html/ui-tooltips-popovers.html",
+      "PackagePath": "staticwebassets/sneat-1.0.0/html/ui-tooltips-popovers.html"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/html/ui-typography.html",
+      "PackagePath": "staticwebassets/sneat-1.0.0/html/ui-typography.html"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/index.html",
+      "PackagePath": "staticwebassets/sneat-1.0.0/index.html"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/js/bootstrap.js",
+      "PackagePath": "staticwebassets/sneat-1.0.0/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/js/helpers.js",
+      "PackagePath": "staticwebassets/sneat-1.0.0/js/helpers.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/js/menu.js",
+      "PackagePath": "staticwebassets/sneat-1.0.0/js/menu.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/libs/apex-charts/apex-charts.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/libs/apex-charts/apex-charts.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/libs/apex-charts/apexcharts.js",
+      "PackagePath": "staticwebassets/sneat-1.0.0/libs/apex-charts/apexcharts.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/libs/highlight/highlight-github.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/libs/highlight/highlight-github.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/libs/highlight/highlight.js",
+      "PackagePath": "staticwebassets/sneat-1.0.0/libs/highlight/highlight.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/libs/highlight/highlight.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/libs/highlight/highlight.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/libs/jquery/jquery.js",
+      "PackagePath": "staticwebassets/sneat-1.0.0/libs/jquery/jquery.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/libs/masonry/masonry.js",
+      "PackagePath": "staticwebassets/sneat-1.0.0/libs/masonry/masonry.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/libs/perfect-scrollbar/perfect-scrollbar.js",
+      "PackagePath": "staticwebassets/sneat-1.0.0/libs/perfect-scrollbar/perfect-scrollbar.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/libs/perfect-scrollbar/perfect-scrollbar.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/libs/perfect-scrollbar/perfect-scrollbar.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/libs/popper/popper.js",
+      "PackagePath": "staticwebassets/sneat-1.0.0/libs/popper/popper.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/package-lock.json",
+      "PackagePath": "staticwebassets/sneat-1.0.0/package-lock.json"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/package.json",
+      "PackagePath": "staticwebassets/sneat-1.0.0/package.json"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_bootstrap-extended.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_bootstrap-extended.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_bootstrap-extended/_accordion.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_bootstrap-extended/_accordion.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_bootstrap-extended/_alert.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_bootstrap-extended/_alert.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_bootstrap-extended/_badge.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_bootstrap-extended/_badge.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_bootstrap-extended/_breadcrumb.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_bootstrap-extended/_breadcrumb.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_bootstrap-extended/_button-group.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_bootstrap-extended/_button-group.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_bootstrap-extended/_buttons.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_bootstrap-extended/_buttons.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_bootstrap-extended/_card.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_bootstrap-extended/_card.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_bootstrap-extended/_carousel.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_bootstrap-extended/_carousel.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_bootstrap-extended/_close.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_bootstrap-extended/_close.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_bootstrap-extended/_dropdown.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_bootstrap-extended/_dropdown.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_bootstrap-extended/_forms.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_bootstrap-extended/_forms.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_bootstrap-extended/_functions.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_bootstrap-extended/_functions.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_bootstrap-extended/_include.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_bootstrap-extended/_include.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_bootstrap-extended/_list-group.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_bootstrap-extended/_list-group.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_bootstrap-extended/_mixins.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_bootstrap-extended/_mixins.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_bootstrap-extended/_modal.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_bootstrap-extended/_modal.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_bootstrap-extended/_nav.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_bootstrap-extended/_nav.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_bootstrap-extended/_navbar.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_bootstrap-extended/_navbar.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_bootstrap-extended/_offcanvas.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_bootstrap-extended/_offcanvas.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_bootstrap-extended/_pagination.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_bootstrap-extended/_pagination.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_bootstrap-extended/_popover.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_bootstrap-extended/_popover.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_bootstrap-extended/_progress.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_bootstrap-extended/_progress.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_bootstrap-extended/_reboot.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_bootstrap-extended/_reboot.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_bootstrap-extended/_root.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_bootstrap-extended/_root.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_bootstrap-extended/_spinners.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_bootstrap-extended/_spinners.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_bootstrap-extended/_tables.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_bootstrap-extended/_tables.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_bootstrap-extended/_toasts.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_bootstrap-extended/_toasts.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_bootstrap-extended/_tooltip.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_bootstrap-extended/_tooltip.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_bootstrap-extended/_type.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_bootstrap-extended/_type.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_bootstrap-extended/_utilities-ltr.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_bootstrap-extended/_utilities-ltr.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_bootstrap-extended/_utilities.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_bootstrap-extended/_utilities.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_bootstrap-extended/_variables.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_bootstrap-extended/_variables.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_bootstrap-extended/forms/_floating-labels.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_bootstrap-extended/forms/_floating-labels.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_bootstrap-extended/forms/_form-control.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_bootstrap-extended/forms/_form-control.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_bootstrap-extended/forms/_form-range.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_bootstrap-extended/forms/_form-range.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_bootstrap-extended/forms/_form-select.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_bootstrap-extended/forms/_form-select.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_bootstrap-extended/forms/_input-group.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_bootstrap-extended/forms/_input-group.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_bootstrap-extended/forms/_labels.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_bootstrap-extended/forms/_labels.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_bootstrap-extended/forms/_validation.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_bootstrap-extended/forms/_validation.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_bootstrap-extended/mixins/_alert.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_bootstrap-extended/mixins/_alert.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_bootstrap-extended/mixins/_badge.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_bootstrap-extended/mixins/_badge.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_bootstrap-extended/mixins/_buttons.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_bootstrap-extended/mixins/_buttons.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_bootstrap-extended/mixins/_caret.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_bootstrap-extended/mixins/_caret.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_bootstrap-extended/mixins/_dropdown.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_bootstrap-extended/mixins/_dropdown.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_bootstrap-extended/mixins/_forms.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_bootstrap-extended/mixins/_forms.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_bootstrap-extended/mixins/_list-group.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_bootstrap-extended/mixins/_list-group.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_bootstrap-extended/mixins/_misc.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_bootstrap-extended/mixins/_misc.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_bootstrap-extended/mixins/_navs.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_bootstrap-extended/mixins/_navs.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_bootstrap-extended/mixins/_pagination.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_bootstrap-extended/mixins/_pagination.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_bootstrap-extended/mixins/_progress.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_bootstrap-extended/mixins/_progress.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_bootstrap-extended/mixins/_table-variants.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_bootstrap-extended/mixins/_table-variants.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_bootstrap-extended/mixins/_toasts.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_bootstrap-extended/mixins/_toasts.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_bootstrap.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_bootstrap.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_colors.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_colors.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_components.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_components.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_components/_app-brand.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_components/_app-brand.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_components/_avatar.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_components/_avatar.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_components/_base.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_components/_base.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_components/_common.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_components/_common.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_components/_footer.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_components/_footer.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_components/_include.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_components/_include.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_components/_layout.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_components/_layout.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_components/_menu.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_components/_menu.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_components/_mixins.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_components/_mixins.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_components/_text-divider.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_components/_text-divider.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_components/_variables.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_components/_variables.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_components/mixins/_app-brand.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_components/mixins/_app-brand.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_components/mixins/_avatar.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_components/mixins/_avatar.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_components/mixins/_footer.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_components/mixins/_footer.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_components/mixins/_menu.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_components/mixins/_menu.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_components/mixins/_misc.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_components/mixins/_misc.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_components/mixins/_navbar.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_components/mixins/_navbar.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_components/mixins/_text-divider.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_components/mixins/_text-divider.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_custom-variables/_bootstrap-extended.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_custom-variables/_bootstrap-extended.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_custom-variables/_components.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_custom-variables/_components.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_custom-variables/_libs.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_custom-variables/_libs.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_custom-variables/_pages.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_custom-variables/_pages.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_custom-variables/_support.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_custom-variables/_support.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_theme/_common.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_theme/_common.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/_theme/_theme.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/_theme/_theme.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/core.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/core.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/pages/page-account-settings.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/pages/page-account-settings.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/pages/page-auth.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/pages/page-auth.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/pages/page-icons.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/pages/page-icons.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/pages/page-misc.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/pages/page-misc.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/scss/theme-default.scss",
+      "PackagePath": "staticwebassets/sneat-1.0.0/scss/theme-default.scss"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/tasks/build.js",
+      "PackagePath": "staticwebassets/sneat-1.0.0/tasks/build.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/tasks/prod.js",
+      "PackagePath": "staticwebassets/sneat-1.0.0/tasks/prod.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/webpack.config.js",
+      "PackagePath": "staticwebassets/sneat-1.0.0/webpack.config.js"
+    },
+    {
+      "Id": "/Users/hakandulger/Projects/KUSYS-Demo/KUSYS-Demo.WebUI/wwwroot/sneat-1.0.0/yarn.lock",
+      "PackagePath": "staticwebassets/sneat-1.0.0/yarn.lock"
     },
     {
       "Id": "obj/Debug/net6.0/staticwebassets/msbuild.KUSYS-Demo.WebUI.Microsoft.AspNetCore.StaticWebAssets.props",

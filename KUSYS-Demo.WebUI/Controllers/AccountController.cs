@@ -99,6 +99,12 @@ namespace KUSYS_Demo.WebUI.Controllers
             }
             return Redirect(returnUrl ?? "/");
         }
+
+        public async Task<IActionResult> Logout()
+        {
+            await signInManager.SignOutAsync();
+            return RedirectToAction("Login", "Account");
+        }
     }
 }
 
