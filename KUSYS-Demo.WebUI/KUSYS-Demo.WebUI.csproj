@@ -24,15 +24,17 @@
     <None Remove="Views\Student\" />
     <None Remove="Views\Course\" />
     <None Remove="Views\Account\" />
+    <None Remove="Views\Matching\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\Student\" />
     <Folder Include="Views\Course\" />
     <Folder Include="Views\Account\" />
+    <Folder Include="Views\Matching\" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="wwwroot\sneat-1.0.0\.github\workflows\issue-staler.yml" />
-    <None Include="wwwroot\sneat-1.0.0\.github\workflows\handle-new-issue-comment.yml" />
-    <None Include="wwwroot\sneat-1.0.0\.github\workflows\handle-new-issue.yml" />
+    <None Include="wwwroot\sneat\.github\workflows\issue-staler.yml" />
+    <None Include="wwwroot\sneat\.github\workflows\handle-new-issue-comment.yml" />
+    <None Include="wwwroot\sneat\.github\workflows\handle-new-issue.yml" />
   </ItemGroup>
 </Project>

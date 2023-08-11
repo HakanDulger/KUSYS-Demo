@@ -42,12 +42,8 @@ _ = builder.Services.AddTransient<IUnitOfWork, EfUnitOfWork>();
 builder.Services.AddDbContext<ApplicationIdentityDbContext>(options => options.UseMySql(builder.Configuration.GetConnectionString("IdentityConnection"), ServerVersion.AutoDetect(builder.Configuration.GetConnectionString("IdentityConnection")),
 
     b => b.CommandTimeout(120).EnableStringComparisonTranslations(true)
+    ));
 
-
-
-    ));//, b => b.MigrationsAssembly("Gasline.Data")
-       //services.AddTransient<IPasswordValidator<ApplicationUser>, CustomPasswordValidator>();
-       //services.AddTransient<IUserValidator<ApplicationUser>, CustomUserValidator>();
 builder.Services.AddIdentity<ApplicationUser, ApplicationRole>(options =>
 {
     options.Password.RequiredLength = 1;
@@ -67,11 +63,10 @@ builder.Services.AddScoped<IUnitOfWork, EfUnitOfWork>();
 builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
 .AddCookie(options =>
 {
-    //todo login adres değişecek
     options.LoginPath = new PathString("/Account/Login");
     options.ExpireTimeSpan = TimeSpan.FromMinutes(2);
-
-    //options.AccessDeniedPath = new PathString("/Account/YetkisizErisim");
+    options.LogoutPath = new PathString("/Account/Logout");
+    options.AccessDeniedPath = new PathString("/Account/AccessDenied");
 });
 
 builder.Services.AddAuthorization(options =>
@@ -93,11 +88,12 @@ var app = builder.Build();
 
 app.UseSession();
 // Configure the HTTP request pipeline.
-if (!app.Environment.IsDevelopment())
+if (app.Environment.IsDevelopment())
 {
-    app.UseExceptionHandler("/Home/Error");
-    // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
-    app.UseHsts();
+    app.UseDeveloperExceptionPage();
+    //app.UseExceptionHandler("/Home/Error");
+    //// The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
+    //app.UseHsts();
 }
 
 app.UseHttpsRedirection();

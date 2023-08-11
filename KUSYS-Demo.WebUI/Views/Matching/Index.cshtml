@@ -1,0 +1,41 @@
+﻿@model List<StudentListViewModel>
+
+
+<div class="card">
+    <div class="card-header">
+        <h3>Student-Course Matchings</h3>
+
+    </div>
+    <div class="card-body">
+        <div>
+            <table class="ui celled table nowrap" style="width:100%" id="usersTable">
+                <thead>
+                    <tr>
+                        <th>FirstName</th>
+                        <th>LastName</th>
+                        <th>Courses</th>
+                        
+                    </tr>
+                </thead>
+                @foreach (var item in Model)
+                {
+                    <tbody>
+                        <tr>
+                            <td>@item.FirstName</td>
+                            <td>@item.LastName</td>
+                            <td>@item.Course</td>
+                        </tr>
+                    </tbody>
+                }
+            </table>
+        </div>
+    </div>
+</div>
+
+
+@section Scripts{
+
+    <script src="~/js/StudentView.js" type="application/ecmascript"></script>
+
+    
+}

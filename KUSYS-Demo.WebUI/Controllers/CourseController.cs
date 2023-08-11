@@ -11,6 +11,10 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace KUSYS_Demo.WebUI.Controllers
 {
+    /// <summary>
+    /// Only the admin role can
+    /// </summary>
+    [Authorize(Policy = "AdminRolePolicy")]
     public class CourseController : Controller
     {
         IUnitOfWork unitOfWork;
@@ -18,7 +22,11 @@ namespace KUSYS_Demo.WebUI.Controllers
         {
             unitOfWork = _unitOfWork;
         }
-        // GET: /<controller>/
+
+        /// <summary>
+        /// Course list method
+        /// </summary>
+        /// <returns></returns>
         public IActionResult Index()
         {
             var courseList = unitOfWork.Courses.GetAll()
@@ -31,15 +39,22 @@ namespace KUSYS_Demo.WebUI.Controllers
             return View(courseList);
         }
 
+        /// <summary>
+        /// CourseAdd Get Method
+        /// </summary>
+        /// <returns></returns>
         [HttpGet]
-        [Authorize(Policy ="AdminRolePolicy")]
         public IActionResult AddCourse()
         {
             return View();
         }
 
+        /// <summary>
+        /// CourseAdd Post Method
+        /// </summary>
+        /// <param name="model"></param>
+        /// <returns></returns>
         [HttpPost]
-        [Authorize(Policy = "AdminRolePolicy")]
         public IActionResult AddCourse(CourseListViewModel model)
         {
             if (ModelState.IsValid)
@@ -56,8 +71,12 @@ namespace KUSYS_Demo.WebUI.Controllers
             }
         }
 
+        /// <summary>
+        /// CourseUpdate Get Method
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns></returns>
         [HttpGet]
-        [Authorize(Policy = "AdminRolePolicy")]
         public IActionResult UpdateCourse(string id)
         {
             var course = unitOfWork.Courses.GetAll().FirstOrDefault(x => x.CourseId == id);
@@ -67,8 +86,12 @@ namespace KUSYS_Demo.WebUI.Controllers
             return View(courseListViewModel);
         }
 
+        /// <summary>
+        /// CourseUpdate Post Method
+        /// </summary>
+        /// <param name="model"></param>
+        /// <returns></returns>
         [HttpPost]
-        [Authorize(Policy = "AdminRolePolicy")]
         public IActionResult UpdateCourse(CourseListViewModel model)
         {
             Data.Utilities.Models.CourseViewModel courseViewModel = new Data.Utilities.Models.CourseViewModel();
@@ -78,8 +101,12 @@ namespace KUSYS_Demo.WebUI.Controllers
             return RedirectToAction("Index");
         }
 
+        /// <summary>
+        /// CourseDelete Method
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns></returns>
         [HttpGet]
-        [Authorize(Policy = "AdminRolePolicy")]
         public IActionResult DeleteCourse(string id)
         {
             unitOfWork.Courses.DeleteCourse(id);

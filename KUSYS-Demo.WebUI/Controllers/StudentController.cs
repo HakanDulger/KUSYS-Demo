@@ -27,13 +27,14 @@ namespace KUSYS_Demo.WebUI.Controllers
             userManager = _userManager;
             roleManager = _roleManager;
         }
-        // GET: /<controller>/
+        /// <summary>
+        /// Student list and show detail
+        /// </summary>
+        /// <returns></returns>
         public IActionResult Index()
         {
             List<StudentListViewModel> studentList = new List<StudentListViewModel>();
-            if (User.IsInRole("Admin"))
-            {
-                studentList = unitOfWork.Students.GetAll()
+            studentList = unitOfWork.Students.GetAll()
                 .Select(s => new StudentListViewModel
                 {
                     StudentId = s.StudentId,
@@ -42,57 +43,18 @@ namespace KUSYS_Demo.WebUI.Controllers
                     BirthDate = s.BirthDate,
                     PhoneNumber = s.PhoneNumber,
                     Address = s.Address,
-                    EMail = s.EMail
+                    EMail = s.EMail,
+                    UserName = s.UserName
                 }).ToList();
-                foreach (var item in studentList)
-                {
-                    var matchings = unitOfWork.Matchings.GetAll().Where(x => x.StudentId == item.StudentId).ToList();
-                    item.Courses = new List<CourseListViewModel>();
-                    foreach (var matching in matchings)
-                    {
-                        var course = unitOfWork.Courses.GetAll().FirstOrDefault(f => f.CourseId == matching.CourseId);
-                        CourseListViewModel model = new CourseListViewModel();
-                        model.CourseId = course.CourseId;
-                        model.CourseName = course.CourseName;
-                        item.Courses.Add(model);
-                    }
-                    item.Course = String.Join(",", item.Courses.Select(s => s.CourseName));
-                }
-            }
-            else
-            {
-
-                studentList = unitOfWork.Students.GetAll()
-                .Select(s => new StudentListViewModel
-                {
-                    StudentId = s.StudentId,
-                    FirstName = s.FirstName,
-                    LastName = s.LastName,
-                    BirthDate = s.BirthDate,
-                    PhoneNumber = s.PhoneNumber,
-                    Address = s.Address,
-                    EMail = s.EMail
-                }).Where(x => x.UserName == ).ToList();
-                foreach (var item in studentList)
-                {
-                    var matchings = unitOfWork.Matchings.GetAll().Where(x => x.StudentId == item.StudentId).ToList();
-                    item.Courses = new List<CourseListViewModel>();
-                    foreach (var matching in matchings)
-                    {
-                        var course = unitOfWork.Courses.GetAll().FirstOrDefault(f => f.CourseId == matching.CourseId);
-                        CourseListViewModel model = new CourseListViewModel();
-                        model.CourseId = course.CourseId;
-                        model.CourseName = course.CourseName;
-                        item.Courses.Add(model);
-                    }
-                    item.Course = String.Join(",", item.Courses.Select(s => s.CourseName));
-                }
-            }
-            
             return View(studentList);
         }
 
+        /// <summary>
+        /// Only the admin role can add students. (StudentAdd Get method)
+        /// </summary>
+        /// <returns></returns>
         [HttpGet]
+        [Authorize(Policy = "AdminRolePolicy")]
         public IActionResult AddStudent()
         {
             StudentListViewModel model = new StudentListViewModel();
@@ -105,7 +67,13 @@ namespace KUSYS_Demo.WebUI.Controllers
             model.Courses.AddRange(courses);
             return View(model);
         }
+        /// <summary>
+        /// Only the admin role can add students. (StudentAdd Post Method)
+        /// </summary>
+        /// <param name="model"></param>
+        /// <returns></returns>
         [HttpPost]
+        [Authorize(Policy = "AdminRolePolicy")]
         public IActionResult AddStudent(StudentListViewModel model)
         {
             if (ModelState.IsValid)
@@ -178,50 +146,71 @@ namespace KUSYS_Demo.WebUI.Controllers
             }
         }
 
+        /// <summary>
+        /// Admin can update all students. But the user can only update his own information. (StudentUpdate Get Method)
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns></returns>
         [HttpGet]
+        [Authorize(Policy = "AdminUserPolicy")]
         public IActionResult UpdateStudent(int id)
         {
+            Guid identityId = new Guid(HttpContext.User.Claims.FirstOrDefault(x => x.Type == "IdentityId").Value);
             var student = unitOfWork.Students.Get(id);
-            StudentListViewModel studentListViewModel = new StudentListViewModel();
-            studentListViewModel.StudentId = student.StudentId;
-            studentListViewModel.FirstName = student.FirstName;
-            studentListViewModel.LastName = student.LastName;
-            studentListViewModel.BirthDate = student.BirthDate;
-            studentListViewModel.PhoneNumber = student.PhoneNumber;
-            studentListViewModel.Address = student.Address;
-            studentListViewModel.EMail = student.EMail;
-
-            var mathings = unitOfWork.Matchings.GetAll().Where(x => x.StudentId == student.StudentId).ToList();
-            var courses = mathings.Select(s => s.CourseId).ToList();
-            studentListViewModel.Courses = new List<CourseListViewModel>();
-            if (mathings != null && mathings.Count() > 0)
+            if (student.IdentityId == identityId)
             {
-                var courseList = unitOfWork.Courses.GetAll().Where(x => !courses.Contains(x.CourseId)).ToList();
-                if (courseList != null && courseList.Count() > 0)
+                StudentListViewModel studentListViewModel = new StudentListViewModel();
+                studentListViewModel.StudentId = student.StudentId;
+                studentListViewModel.FirstName = student.FirstName;
+                studentListViewModel.LastName = student.LastName;
+                studentListViewModel.BirthDate = student.BirthDate;
+                studentListViewModel.PhoneNumber = student.PhoneNumber;
+                studentListViewModel.Address = student.Address;
+                studentListViewModel.EMail = student.EMail;
+
+                var mathings = unitOfWork.Matchings.GetAll().Where(x => x.StudentId == student.StudentId).ToList();
+                var courses = mathings.Select(s => s.CourseId).ToList();
+                studentListViewModel.Courses = new List<CourseListViewModel>();
+                if (mathings != null && mathings.Count() > 0)
                 {
-                    foreach (var item in courseList)
+                    var courseList = unitOfWork.Courses.GetAll().Where(x => !courses.Contains(x.CourseId)).ToList();
+                    if (courseList != null && courseList.Count() > 0)
                     {
-                        CourseListViewModel courseViewModel = new CourseListViewModel();
-                        courseViewModel.CourseId = item.CourseId;
-                        courseViewModel.CourseName = item.CourseName;
-                        studentListViewModel.Courses.Add(courseViewModel);
+                        foreach (var item in courseList)
+                        {
+                            CourseListViewModel courseViewModel = new CourseListViewModel();
+                            courseViewModel.CourseId = item.CourseId;
+                            courseViewModel.CourseName = item.CourseName;
+                            studentListViewModel.Courses.Add(courseViewModel);
+                        }
                     }
                 }
+                else
+                {
+                    var courseslist = unitOfWork.Courses.GetAll().Select(s => new CourseListViewModel
+                    {
+                        CourseId = s.CourseId,
+                        CourseName = s.CourseName
+                    }).ToList();
+
+                    studentListViewModel.Courses.AddRange(courseslist);
+                }
+
+                return View(studentListViewModel);
             }
             else
             {
-                var courseslist = unitOfWork.Courses.GetAll().Select(s => new CourseListViewModel
-                {
-                    CourseId = s.CourseId,
-                    CourseName = s.CourseName
-                }).ToList();
-
-                studentListViewModel.Courses.AddRange(courseslist);
+                return RedirectToAction("AccessDenied", "Account");
             }
-            return View(studentListViewModel);
         }
 
+        /// <summary>
+        /// Admin can update all students. But the user can only update his own information. (StudentUpdate Post Method)
+        /// </summary>
+        /// <param name="model"></param>
+        /// <returns></returns>
         [HttpPost]
+        [Authorize(Policy = "AdminUserPolicy")]
         public IActionResult UpdateStudent(StudentListViewModel model)
         {
             Data.Utilities.Models.StudentViewModel studentViewModel = new Data.Utilities.Models.StudentViewModel();
@@ -250,11 +239,43 @@ namespace KUSYS_Demo.WebUI.Controllers
             return RedirectToAction("Index");
         }
 
+        /// <summary>
+        /// Only the admin role can delete students. (StudentDelete Get method)
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns></returns>
         [HttpGet]
         [Authorize("AdminRolePolicy")]
         public IActionResult DeleteStudent(int id)
         {
-            unitOfWork.Students.DeleteStudent(id);
+            var student = unitOfWork.Students.Get(id);
+            if (student != null)
+            {
+                var user = userManager.FindByNameAsync(student.UserName).GetAwaiter().GetResult();
+
+                var userroles = userManager.GetRolesAsync(user).GetAwaiter().GetResult();
+                var deleteresult = userManager.RemoveFromRolesAsync(user, userroles).GetAwaiter().GetResult();
+                if (deleteresult.Succeeded)
+                {
+                    var result = userManager.DeleteAsync(user).GetAwaiter().GetResult();
+
+                    if (result.Succeeded)
+                    {
+                        unitOfWork.Students.DeleteStudent(id);
+
+                        return RedirectToAction("Index");
+                    }
+
+                    foreach (var error in result.Errors)
+                    {
+                        ModelState.AddModelError("", error.Description);
+                    }
+                }
+                else
+                {
+                    return RedirectToAction("Index");
+                }
+            }
 
             return RedirectToAction("Index");
         }

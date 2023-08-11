@@ -9,7 +9,7 @@
         language: {
             "sDecimal": ",",
             "sEmptyTable": "",
-            "sInfo": "Showing 1 to 1 of 1 entries",
+            "sInfo": "",
             "sInfoEmpty": "No records",
             "sInfoFiltered": "(MAX data inside)",
             "sInfoPostFix": "",
@@ -18,7 +18,7 @@
             "sLoadingRecords": "Loading...",
             "sProcessing": "Processing...",
             "sSearch": "Search:",
-            "sZeroRecords": "No matching records found",
+            "sZeroRecords": "",
             "oPaginate": {
                 "sFirst": "First",
                 "sLast": "Last",

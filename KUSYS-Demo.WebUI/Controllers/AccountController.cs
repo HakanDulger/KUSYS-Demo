@@ -28,48 +28,31 @@ namespace KUSYS_Demo.WebUI.Controllers
             unitOfWork = _unitOfWork;
         }
 
+        /// <summary>
+        /// Login Get Method
+        /// </summary>
+        /// <returns></returns>
         [HttpGet]
         [AllowAnonymous]
-        public IActionResult Login(string returnUrl)
+        public IActionResult Login()
         {
-            ViewBag.returnUrl = returnUrl;
             return View();
         }
 
+        /// <summary>
+        /// Login Post Method 
+        /// </summary>
+        /// <param name="model"></param>
+        /// <returns></returns>
         [HttpPost]
         [AllowAnonymous]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Login(LoginViewModel model, string returnUrl)
+        public async Task<IActionResult> Login(LoginViewModel model)
         {
-            //throw new Exception("Yapılan bakım çalışması nedeniyle. Geçici olarak hizmet verilemiyor.");
             if (ModelState.IsValid)
             {
-                /*string[] k = new string[] { "34000991", "34001479", "34000744", "34000783","3400tyilmaz", "alikemal", "ahmetaktan", "muratdikmen", "ozcangobekli", "eraygokdemir" };
-                if (!k.Contains(model.UserName))
-                {
-                    throw new Exception("Yapılan bakım çalışması nedeniyle. Geçici olarak hizmet verilemiyor.");
-                }
-                if (model.UserName.StartsWith("3400"))
-                {
-                    //  test  firmaları
-                    string[] firmalar = new string[] { "34000991", "34001479", "34000744", "34000783" };
-                    if (!firmalar.Contains(model.UserName))
-                    {
-                        throw new Exception("Yapılan bakım çalışması nedeniyle. Geçici olarak hizmet verilemiyor.");
-                    }
-                }
-                if (model.UserName.StartsWith("3400"))
-                {
-                    //  test  firmaları
-                    string[] firmalar = new string[] {"3400ysaygili", "34000351", "34000000", "34000991", "34001479", "34000744", "34000783", "3400tyilmaz", "3400ioguzturk","3400agunes", "3400syildiz" };
-                    if (!firmalar.Contains(model.UserName))
-                    {
-                        throw new Exception("Yapılan bakım çalışması nedeniyle. Geçici olarak hizmet verilemiyor.");
-                    }
-                }
-               */
                 var user = await userManager.FindByNameAsync(model.UserName);
-
+                // If the user is active, he/she can login. 
                 if (user != null && user.IsActive)
                 {
                     await signInManager.SignOutAsync();
@@ -79,7 +62,7 @@ namespace KUSYS_Demo.WebUI.Controllers
                     {
                         try
                         {
-                            return Redirect(returnUrl ?? "/");
+                            return Redirect("/");
 
                         }
                         catch (Exception ex)
@@ -90,20 +73,35 @@ namespace KUSYS_Demo.WebUI.Controllers
                 }
                 if (user != null && user.IsActive == false)
                 {
-                    ModelState.TryAddModelError(nameof(model.UserName), "Kullanıcı aktif değil.");
+                    ModelState.TryAddModelError(nameof(model.UserName), "User is passive.");
                 }
                 else
                 {
-                    ModelState.TryAddModelError(nameof(model.UserName), "Hatalı kullanıcı adı ya da parola.");
+                    ModelState.TryAddModelError(nameof(model.UserName), "Wrong username or password.");
                 }
             }
-            return Redirect(returnUrl ?? "/");
+            return Redirect("/");
         }
 
+        /// <summary>
+        /// Logout Method
+        /// </summary>
+        /// <returns></returns>
         public async Task<IActionResult> Logout()
         {
             await signInManager.SignOutAsync();
             return RedirectToAction("Login", "Account");
+        }
+
+        /// <summary>
+        /// Access Denied method
+        /// </summary>
+        /// <returns></returns>
+        [HttpGet]
+        [AllowAnonymous]
+        public IActionResult AccessDenied()
+        {
+            return View();
         }
     }
 }

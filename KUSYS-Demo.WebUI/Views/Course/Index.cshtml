@@ -11,8 +11,8 @@
             }
         </div>
         <div class="card-body">
-            <div class="table-responsive">
-                <table class="table">
+            <div >
+                <table class="ui celled table nowrap" style="width:100%" id="usersTable">
                     <thead>
                         <tr>
                             <th>Id</th>
@@ -32,6 +32,11 @@
                                     <td><a href="/Course/UpdateCourse/@item.CourseId"><i class="mdi mdi-warning"></i> Update</a></td>
                                     <td><a href="/Course/DeleteCourse/@item.CourseId" onclick="return confirm('Are you sure Delete?');"><i class="mdi mdi-delete"></i> Delete</a></td>
                                 }
+                                else
+                                {
+                                    <td></td>
+                                    <td></td>
+                                }
                             </tr>
                         </tbody>
                     }
@@ -39,4 +44,9 @@
             </div>
         </div>
     </div>
-</div> 
+</div>
+
+@section Scripts{
+
+    <script src="~/js/StudentView.js" type="application/ecmascript"></script>
+}
